@@ -73,7 +73,7 @@ https://github.com/csiebler/openai-in-a-day
 Azure Search Open AI solution accelerator<br>
 https://github.com/Azure-Samples/azure-search-openai-solution-accelerator
 
-Azure-Cognitive-Search-Azure-OpenAI-Accelerator<br>
+Azure Cognitive Search Azure OpenAI Accelerator<br>
 https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator
 
 Azure Cognitive Search async Azure OpenAI<br>
