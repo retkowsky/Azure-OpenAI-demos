@@ -22,6 +22,7 @@ Azure Open AI Studio:
 https://oai.azure.com/portal
 
 ## Demos videos
+https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
 
 ## Some additional Azure Open AI ressources
 Learn Azure Open AI<br>
