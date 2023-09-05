@@ -61,6 +61,10 @@ https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure
 Azure OpenAI Embeddings QnA<br>
 https://github.com/fvneerden/azure-open-ai-embeddings-qna
 
+Azure OpenAI Embeddings QnA from Azure Video Indexer transcripts<br>
+https://github.com/fvneerden/azure-open-ai-embeddings-qna/tree/videosolacc
+
+
 <br>
 ## Author
 05-Sept-2023<br>
