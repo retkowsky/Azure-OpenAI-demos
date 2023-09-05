@@ -44,7 +44,7 @@ https://oai.azure.com/portal
 What's new in Azure Open AI?<br>
 https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
 
-## Demos videos
+## Azure Open AI demos videos
 
 Microsoft AI Show demos videos:<br>
 https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
