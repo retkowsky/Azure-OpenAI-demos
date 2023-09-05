@@ -1,5 +1,5 @@
-# Azure Open AI demos
-Some Azure Open AI demos
+# Some Azure Open AI demos
+<img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
 ## Demos
 - Python code analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
@@ -51,5 +51,8 @@ https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/how-to/fine-tu
 Azure Cognitive Search Async Azure OpenAI<br>
 https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
 <br><br>
-05-Sept-2023
+
+## Author
+05-Sept-2023<br>
+Updated 05-Sept-2023<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
