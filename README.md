@@ -30,7 +30,7 @@ https://oai.azure.com/portal
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Notebook</a>
 
 - Faiss DB demo:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Faiss-DB-Demo">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FaissDB Demo">Notebook</a>
 
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
