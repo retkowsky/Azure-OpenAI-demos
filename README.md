@@ -1,6 +1,10 @@
 # Azure Open AI demos
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
+## Azure Open AI Studio:
+https://oai.azure.com/portal
+<img src="https://th.bing.com/th/id/OIP.H27gRfeAERGvZb6WWukkbgHaDo?pid=ImgDet&rs=1">
+
 ## Demos
 
 - Vectors embeddings for text, images and audio files:<br>
