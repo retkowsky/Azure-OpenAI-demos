@@ -63,13 +63,6 @@ https://oai.azure.com/portal
 What's new in Azure Open AI?<br>
 https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
 
-## Azure Open AI demos videos
-Microsoft AI Show demos videos:<br>
-https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
-
-YouTube demos videos:<br>
-https://www.youtube.com/results?search_query=azure+open+ai
-
 ## Azure Open AI accelerators
 
 Azure OpenAI Workshops<br>
@@ -122,6 +115,13 @@ https://github.com/fvneerden/azure-open-ai-embeddings-qna
 
 Azure OpenAI Embeddings QnA from Azure Video Indexer transcripts<br>
 https://github.com/fvneerden/azure-open-ai-embeddings-qna/tree/videosolacc
+
+## Azure Open AI demos videos
+Microsoft AI Show demos videos:<br>
+https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
+
+YouTube demos videos:<br>
+https://www.youtube.com/results?search_query=azure+open+ai
 
 ## Author
 05-Sept-2023<br>
