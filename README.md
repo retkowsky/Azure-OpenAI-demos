@@ -23,6 +23,9 @@
 - Llama:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Notebook</a>
 
+- Faiss DB demo:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Faiss-DB-Demo">Notebook</a>
+
 ## Azure Open AI links
 Azure Open AI:<br>
 https://azure.microsoft.com/en-us/products/ai-services/openai-service-b
