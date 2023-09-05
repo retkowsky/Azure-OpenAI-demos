@@ -38,7 +38,7 @@ https://oai.azure.com/portal
 <img src="https://github.com/retkowsky/images/blob/master/movies_search.png?raw=true">
 <br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Movies%20recommender%20usecase%20demo">Notebooks</a>
-
+<br>
 <br>
 
 Some screenshots from the movies recommendation app using Azure Open AI:
