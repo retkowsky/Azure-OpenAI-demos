@@ -35,6 +35,7 @@ https://github.com/Azure/openai-samples
 
 Azure OpenAI Workshop<br>
 https://github.com/Azure/azure-openai-workshop
+https://github.com/microsoft/OpenAIWorkshop
 
 Azure OpenAI Embeddings QnA<br>
 https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
@@ -50,6 +51,19 @@ https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/how-to/fine-tu
 
 Azure Cognitive Search Async Azure OpenAI<br>
 https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
+
+Llm-based-virtual-assistant-demo
+https://github.com/csiebler/llm-based-virtual-assistant-demo
+
+ Azure Search Open AI solution accelerator
+https://github.com/Azure-Samples/azure-search-openai-solution-accelerator
+
+Customer Service Conversational Insights with Azure OpenAI:
+https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services
+
+Azure OpenAI Embeddings QnA:
+https://github.com/fvneerden/azure-open-ai-embeddings-qna
+
 <br><br>
 
 ## Author
