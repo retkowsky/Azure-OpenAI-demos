@@ -29,9 +29,6 @@ https://oai.azure.com/portal
 - Llama:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Folder</a>
 
-- Faiss DB demo:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FaissDB demo">Folder</a>
-
 - Dall-e 2 images generation:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/dall-e%202">Folder</a>
 
