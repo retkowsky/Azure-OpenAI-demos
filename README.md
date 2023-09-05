@@ -1,6 +1,18 @@
 # Azure Open AI demos
 Some Azure Open AI demos
 
+## Demos
+- Python code analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Notebook</a>
+
+- Vectors embeddings for text, images and audio files:<br>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Notebook</a>
+
+- PDF documents analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Notebook</a>
+
+- Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/movies_demo">Notebook</a>
 
 ## Some additional Azure Open AI ressources
 Learn Azure Open AI<br>
