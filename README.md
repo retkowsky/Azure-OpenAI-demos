@@ -32,6 +32,9 @@ https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
 Microsoft AI Show demos videos:<br>
 https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
 
+YouTube demos videos:<br>
+https://www.youtube.com/results?search_query=azure+open+ai
+
 ## Some additional Azure Open AI ressources
 Learn Azure Open AI<br>
 https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/
