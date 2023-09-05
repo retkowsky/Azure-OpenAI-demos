@@ -3,7 +3,7 @@
 
 ## Azure Open AI Studio:
 https://oai.azure.com/portal
-<img src="https://th.bing.com/th/id/OIP.H27gRfeAERGvZb6WWukkbgHaDo?pid=ImgDet&rs=1">
+<img src="aoai.png">
 
 ## Demos
 
