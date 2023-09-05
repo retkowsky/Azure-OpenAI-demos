@@ -17,6 +17,10 @@
 - Azure Computer Vision and Langchain:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure-Computer-Vision-and-Langchain">Notebook</a>
 
+- Embeddings with Pandas:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings-with-Pandas">Notebook</a>
+
+
 ## Azure Open AI links
 Azure Open AI:<br>
 https://azure.microsoft.com/en-us/products/ai-services/openai-service-b
