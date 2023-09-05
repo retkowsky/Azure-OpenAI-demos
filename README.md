@@ -1,4 +1,4 @@
-# Some Azure Open AI demos
+# Azure Open AI demos
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
 ## Demos
