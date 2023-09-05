@@ -36,6 +36,7 @@ https://oai.azure.com/portal
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
 <img src="https://github.com/retkowsky/images/blob/master/movies_search.png?raw=true">
+<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Movies%20recommender%20usecase%20demo">Notebooks</a>
 
 <br>
