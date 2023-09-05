@@ -15,8 +15,11 @@
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/movies_demo">Notebook</a>
 
 ## Azure Open AI links
-Documentation:
+Azure Open AI:
 https://azure.microsoft.com/en-us/products/ai-services/openai-service-b
+
+Documentation:
+https://learn.microsoft.com/en-us/azure/ai-services/openai/
 
 Azure Open AI Studio:
 https://oai.azure.com/portal
