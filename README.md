@@ -29,6 +29,8 @@
 
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
+
+<img src="https://camo.githubusercontent.com/59cfe3040e572d40f75fffbb1ceb54787da7ed9ec2cdafb12bc8a3d788b4962f/68747470733a2f2f6769746875622e636f6d2f7265746b6f77736b792f696d616765732f626c6f622f6d61737465722f6d6f766965735f7365617263682e706e673f7261773d74727565">
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/movies_demo">Notebooks</a>
 
 ## Azure Open AI links
