@@ -1,10 +1,10 @@
 # Azure Open AI demos
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
-## Azure Open AI Studio:
+## Azure Open AI Studio
 <img src="aoai.png">
 <br>
-https://oai.azure.com/portal
+### https://oai.azure.com/portal
 
 ## Demos
 
@@ -39,12 +39,12 @@ https://oai.azure.com/portal
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Movies%20recommender%20usecase%20demo">Notebooks</a>
 <br>
 <br>
-Some screenshots from the movies recommendation app using Azure Open AI:
+Some screenshots from the movies recommendation app using Azure Open AI:<br>
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp1.png?raw=true">
-<br>
-Some screenshots from the movies recommendation app using Azure Open AI and Azure Cognitive Search:
+<br><br>
+Some screenshots from the movies recommendation app using Azure Open AI and Azure Cognitive Search:<br>
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp2.png?raw=true">
-<br>
+<br><br>
 
 ## Azure Open AI links
 Azure Open AI:<br>
