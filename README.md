@@ -1,2 +1,3 @@
-# azure_openAI
-Azure Open AI dempos
+# Azure Open AI demos
+
+
