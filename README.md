@@ -64,12 +64,27 @@ What's new in Azure Open AI?<br>
 https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
 
 ## Azure Open AI demos videos
-
 Microsoft AI Show demos videos:<br>
 https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
 
 YouTube demos videos:<br>
 https://www.youtube.com/results?search_query=azure+open+ai
+
+## Azure Open AI accelerators
+
+Azure OpenAI Workshops<br>
+https://github.com/Azure/azure-openai-workshop
+https://github.com/microsoft/OpenAIWorkshop
+https://github.com/csiebler/openai-in-a-day
+
+Azure Search Open AI solution accelerator<br>
+https://github.com/Azure-Samples/azure-search-openai-solution-accelerator
+
+Azure-Cognitive-Search-Azure-OpenAI-Accelerator<br>
+https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator
+
+Azure Cognitive Search async Azure OpenAI<br>
+https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
 
 ## Some additional Azure Open AI ressources
 Learn Azure Open AI<br>
@@ -90,27 +105,14 @@ https://github.com/Azure-Samples/azure-search-openai-demo/
 Azure OpenAI samples<br>
 https://github.com/Azure/openai-samples
 
-Azure OpenAI Workshops<br>
-https://github.com/Azure/azure-openai-workshop
-https://github.com/microsoft/OpenAIWorkshop
-
 Azure OpenAI Embeddings QnA<br>
 https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
-
-OpenAI in a Day workshop<br>
-https://github.com/csiebler/openai-in-a-day
 
 Learn how to customize a model for your application<br>
 https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/how-to/fine-tuning?pivots=programming-language-python
 
-Azure Cognitive Search async Azure OpenAI<br>
-https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
-
 Llm based virtual assistant demo<br>
 https://github.com/csiebler/llm-based-virtual-assistant-demo
-
-Azure Search Open AI solution accelerator<br>
-https://github.com/Azure-Samples/azure-search-openai-solution-accelerator
 
 Customer Service Conversational Insights with Azure OpenAI<br>
 https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services
