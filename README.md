@@ -14,6 +14,9 @@
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/movies_demo">Notebook</a>
 
+- Azure Computer Vision and Langchain:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure-Computer-Vision-and-Langchain">Notebook</a>
+
 ## Azure Open AI links
 Azure Open AI:<br>
 https://azure.microsoft.com/en-us/products/ai-services/openai-service-b
