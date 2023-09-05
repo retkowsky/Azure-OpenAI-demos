@@ -64,8 +64,7 @@ https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure
 Azure OpenAI Embeddings QnA<br>
 https://github.com/fvneerden/azure-open-ai-embeddings-qna
 
-<br><br>
-
+<br>
 ## Author
 05-Sept-2023<br>
 Updated 05-Sept-2023<br>
