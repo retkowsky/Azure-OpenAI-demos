@@ -37,11 +37,14 @@ https://oai.azure.com/portal
 
 <img src="https://github.com/retkowsky/images/blob/master/movies_search.png?raw=true">
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Movies%20recommender%20usecase%20demo">Notebooks</a>
+
 <br>
-<br>
+
 Some screenshots from the movies recommendation app using Azure Open AI:
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp1.png?raw=true">
-<br><br>
+
+<br>
+
 Some screenshots from the movies recommendation app using Azure Open AI and Azure Cognitive Search:
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp2.png?raw=true">
 <br><br>
