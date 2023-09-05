@@ -27,7 +27,7 @@
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Faiss-DB-Demo">Notebook</a>
 
 - Azure Cognitive Search Vector Search Code Sample with Azure OpenAI:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI"Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Notebook</a>
 
 ## Azure Open AI links
 Azure Open AI:<br>
