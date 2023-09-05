@@ -9,31 +9,31 @@ https://oai.azure.com/portal
 ## Demos
 
 - Vectors embeddings for text, images and audio files:<br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Notebook</a>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Folder</a>
 
 - Embeddings with Pandas:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings with Pandas">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings with Pandas">Folder</a>
 
 - Azure Computer Vision and Langchain:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Folder</a>
 
 - Azure Cognitive Search Vector Search Code Sample with Azure OpenAI:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Folder</a>
 
 - Python code analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Notebook</a>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Folder</a>
 
 - PDF documents analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Notebook</a>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Folder</a>
 
 - Llama:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Folder</a>
 
 - Faiss DB demo:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FaissDB demo">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FaissDB demo">Folder</a>
 
 - Dall-e 2 images generation:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/dall-e%202">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/dall-e%202">Folder</a>
 
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
