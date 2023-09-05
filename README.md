@@ -32,6 +32,9 @@ https://oai.azure.com/portal
 - Faiss DB demo:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FaissDB demo">Notebook</a>
 
+- Dall-e 2 images generation
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/dall-e%202">Notebook</a>
+
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
