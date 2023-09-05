@@ -21,7 +21,7 @@ https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/
 Azure OpenAI Service models<br>
 https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/concepts/models
 
-Azure OpenAI Service frequently asked questions<br>
+Azure OpenAI Service Frequently Asked Questions<br>
 https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/faq
 
 OpenAI Cookbook<br>
@@ -30,32 +30,29 @@ https://github.com/openai/openai-cookbook
 ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search<br>
 https://github.com/Azure-Samples/azure-search-openai-demo/
 
-Azure OpenAI Samples<br>
+Azure OpenAI samples<br>
 https://github.com/Azure/openai-samples
 
-Azure OpenAI Workshop<br>
+Azure OpenAI Workshops<br>
 https://github.com/Azure/azure-openai-workshop
 https://github.com/microsoft/OpenAIWorkshop
 
 Azure OpenAI Embeddings QnA<br>
 https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
 
-OpenAI in a Day<br>
+OpenAI in a Day workshop<br>
 https://github.com/csiebler/openai-in-a-day
-
-azure-openai-service-workshop<br>
-https://github.com/csiebler/azure-openai-service-workshop
 
 Learn how to customize a model for your application<br>
 https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/how-to/fine-tuning?pivots=programming-language-python
 
-Azure Cognitive Search Async Azure OpenAI<br>
+Azure Cognitive Search async Azure OpenAI<br>
 https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
 
-Llm-based-virtual-assistant-demo<br>
+Llm based virtual assistant demo<br>
 https://github.com/csiebler/llm-based-virtual-assistant-demo
 
- Azure Search Open AI solution accelerator<br>
+Azure Search Open AI solution accelerator<br>
 https://github.com/Azure-Samples/azure-search-openai-solution-accelerator
 
 Customer Service Conversational Insights with Azure OpenAI<br>
