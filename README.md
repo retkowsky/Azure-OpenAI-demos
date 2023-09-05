@@ -24,6 +24,9 @@ https://learn.microsoft.com/en-us/azure/ai-services/openai/
 Azure Open AI Studio:<br>
 https://oai.azure.com/portal
 
+What's new in Azure Open AI?<br>
+https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
+
 ## Demos videos
 https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
 
