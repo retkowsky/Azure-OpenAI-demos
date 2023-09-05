@@ -12,10 +12,10 @@ https://oai.azure.com/portal
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Notebook</a>
 
 - Embeddings with Pandas:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings-with-Pandas">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings with Pandas">Notebook</a>
 
 - Azure Computer Vision and Langchain:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure-Computer-Vision-and-Langchain">Notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Notebook</a>
 
 - Azure Cognitive Search Vector Search Code Sample with Azure OpenAI:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Notebook</a>
