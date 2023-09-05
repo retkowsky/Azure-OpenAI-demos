@@ -2,31 +2,31 @@
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
 ## Demos
-- Python code analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
+- 1. Python code analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Notebook</a>
 
-- Vectors embeddings for text, images and audio files:<br>
+- 2. Vectors embeddings for text, images and audio files:<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Notebook</a>
 
-- PDF documents analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
+- 3. PDF documents analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Notebook</a>
 
-- Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
+- 4. Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/movies_demo">Notebook</a>
 
-- Azure Computer Vision and Langchain:<br>
+- 5. Azure Computer Vision and Langchain:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure-Computer-Vision-and-Langchain">Notebook</a>
 
-- Embeddings with Pandas:<br>
+- 6. Embeddings with Pandas:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings-with-Pandas">Notebook</a>
 
-- Llama:<br>
+- 7. Llama:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Notebook</a>
 
-- Faiss DB demo:<br>
+- 8. Faiss DB demo:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Faiss-DB-Demo">Notebook</a>
 
-- Azure Cognitive Search Vector Search Code Sample with Azure OpenAI:<br>
+- 9. Azure Cognitive Search Vector Search Code Sample with Azure OpenAI:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Notebook</a>
 
 ## Azure Open AI links
