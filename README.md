@@ -20,6 +20,8 @@
 - Embeddings with Pandas:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings-with-Pandas">Notebook</a>
 
+- Llama
+<a href"https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Notebook</a>
 
 ## Azure Open AI links
 Azure Open AI:<br>
