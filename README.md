@@ -44,6 +44,7 @@ Some screenshots from the movies recommendation app:
 <br>
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp2.png?raw=true">
 <br>
+
 ## Azure Open AI links
 Azure Open AI:<br>
 https://azure.microsoft.com/en-us/products/ai-services/openai-service-b
