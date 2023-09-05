@@ -2,7 +2,7 @@
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
 ## Azure Open AI Studio:
-<img src="aoai.png"><br>
+<img src="aoai.png">
 <br>
 https://oai.azure.com/portal
 
