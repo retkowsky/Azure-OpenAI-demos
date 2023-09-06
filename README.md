@@ -9,41 +9,41 @@ https://oai.azure.com/portal
 ## Demos
 
 - Vectors embeddings for text, images and audio files:<br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Folder</a>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Go to demo folder</a>
 
 - Embeddings with Pandas:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings with Pandas">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings with Pandas">Go to demo folder</a>
 
 - Azure Computer Vision and Langchain:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Go to demo folder</a>
 
 - Azure Cognitive Search Vector Search Code Sample with Azure OpenAI:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Go to demo folder</a>
 
 - Python code analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Folder</a>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Go to demo folder</a>
 
 - PDF documents analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Folder</a>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Go to demo folder</a>
 
 - Llama:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Go to demo folder</a>
 
 - Dall-e 2 images generation:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/dall-e%202">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Artificial%20images%20with%20Dall-e%202">Go to demo folder</a>
 
 - Python function integration:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Python%20functions%20integration">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Python%20functions%20integration">Go to demo folder</a>
 
 - Video Indexer transcripts analysis with Azure Open AI and Azure Cognitive Search:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Go to demo folder</a>
 
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
 <img src="https://github.com/retkowsky/images/blob/master/movies_search.png?raw=true">
 <br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Movies%20recommender%20usecase%20demo">Notebooks</a>
+<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Movies%20recommender%20usecase%20demo">Go to demo folder</a>
 <br>
 <br>
 
