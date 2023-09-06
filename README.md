@@ -36,7 +36,7 @@ https://oai.azure.com/portal
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/functions">Folder</a>
 
 - Video Indexer transcripts analysis with Azure Open AI and Azure Cognitive Search:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video-Indexer_analysis">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Folder</a>
 
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
