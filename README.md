@@ -85,8 +85,12 @@ https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Acc
 Azure Cognitive Search async Azure OpenAI<br>
 https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
 
-## Data, privacy, and security for Azure OpenAI Service
+## Data, privacy, security and content filtering for Azure OpenAI Service
+Data, privacy, security<br>
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
+
+Content filtering<br>
+https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter
 
 ## Some additional Azure Open AI ressources
 Learn Azure Open AI<br>
@@ -134,6 +138,9 @@ https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-o
 
 YouTube demos videos:<br>
 https://www.youtube.com/results?search_query=azure+open+ai
+
+## Pricing
+https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
 
 ## Author
 05-Sept-2023<br>
