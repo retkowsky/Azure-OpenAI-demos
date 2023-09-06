@@ -32,6 +32,9 @@ https://oai.azure.com/portal
 - Dall-e 2 images generation:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/dall-e%202">Folder</a>
 
+- Python function integration:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/functions">Folder</a>
+
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
