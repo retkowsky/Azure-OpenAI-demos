@@ -86,7 +86,7 @@ Azure Cognitive Search async Azure OpenAI<br>
 https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
 
 ## Data, privacy, and security for Azure OpenAI Service
-https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
 
 ## Some additional Azure Open AI ressources
 Learn Azure Open AI<br>
