@@ -85,7 +85,11 @@ https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Acc
 Azure Cognitive Search async Azure OpenAI<br>
 https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
 
-## Data, privacy, security and content filtering for Azure OpenAI Service
+## Responsible AI
+
+Overview of Responsible AI practices for Azure OpenAI models<br>
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/overview
+
 Data, privacy, security<br>
 https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
 
