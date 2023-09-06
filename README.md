@@ -128,6 +128,6 @@ https://www.youtube.com/results?search_query=azure+open+ai
 
 ## Author
 05-Sept-2023<br>
-Updated 05-Sept-2023<br>
+Updated 06-Sept-2023<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
