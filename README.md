@@ -33,7 +33,7 @@ https://oai.azure.com/portal
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/dall-e%202">Folder</a>
 
 - Python function integration:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/functions">Folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Python%20functions%20integration">Folder</a>
 
 - Video Indexer transcripts analysis with Azure Open AI and Azure Cognitive Search:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Folder</a>
