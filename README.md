@@ -85,6 +85,9 @@ https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Acc
 Azure Cognitive Search async Azure OpenAI<br>
 https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
 
+## Data, privacy, and security for Azure OpenAI Service
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext
+
 ## Some additional Azure Open AI ressources
 Learn Azure Open AI<br>
 https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/
@@ -94,6 +97,9 @@ https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/concepts/model
 
 Azure OpenAI Service Frequently Asked Questions<br>
 https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/faq
+
+Transparency Note for Azure OpenAI Service<br>
+https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&tabs=text
 
 OpenAI Cookbook<br>
 https://github.com/openai/openai-cookbook
