@@ -152,7 +152,7 @@ https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-o
 YouTube demos videos:<br>
 https://www.youtube.com/results?search_query=azure+open+ai
 
-## Pricing
+## Azure Open AI pricing
 https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
 
 ## Author
