@@ -6,7 +6,7 @@
 <br>
 https://oai.azure.com/portal
 
-## Demos
+## Azure Open AI demos
 
 - Vectors embeddings for text, images and audio files:<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Go to demo folder</a>
