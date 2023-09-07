@@ -39,7 +39,10 @@ https://oai.azure.com/portal
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Go to demo folder</a>
 
 - Email response generation:<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Email%20response%20generation"> Got to demo folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Email%20response%20generation">Got to demo folder</a>
+
+- Wikification:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Wikification">Got to demo folder</a>
 
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
