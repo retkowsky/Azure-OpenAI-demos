@@ -44,6 +44,9 @@ https://oai.azure.com/portal
 - Wikification:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Wikification">Got to demo folder</a>
 
+- Resume analysis:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Resume%20analysis">Got to demo folder</a>
+
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
