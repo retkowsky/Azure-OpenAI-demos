@@ -38,6 +38,9 @@ https://oai.azure.com/portal
 - Video Indexer transcripts analysis with Azure Open AI and Azure Cognitive Search:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Go to demo folder</a>
 
+- Email response generation:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Email%20response%20generation"> Got to demo folder</a>
+
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
