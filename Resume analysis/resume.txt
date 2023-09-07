@@ -1,0 +1,32 @@
+John Water
+Phone: (123) 456 78 99
+Email: john.water@hello.com
+Website: www.johnwater.com
+Linkedin: https://www.linkedin.com/jwater
+Address: 25 rue des chantiers 75012 Paris
+Date of birth: 20-Jan-1986
+Place of Birth: Versailles
+Nationality: French
+
+
+Objective
+Data Scientist with PhD in Physics and 10+ years of industrial experience. Two years of working experience in Data Analysis team of LIGO Scientific Collaboration [$3M Special Breakthrough Prize winner of 2016]. Over ten years of successful research experience in both theoretical and datascience. Strong problem-solving and analytical skills. Advanced programming proficiency. Certified in Data Analysis and Machine Learning on Azure and AWS services.
+
+Skills
+Azure, Azure AI, Azure ML, Data Mining, Data Analysis, Machine Learning, Python, R, MATLAB, Sphinx, Mathematica,
+Maple, GIT, Azure Custom Vision, Azure Open AI, SPSS, time series.
+
+Work Experience
+
+Data Scientist - ABCD Corporation Jan 2020 – Sept 2023
+Data science manager of ABCD.
+Managing a team of 10 advanced datascientists.
+
+Datascience trainer - XYZ Corporation Sept 2015 – Sept 2019
+Datascience trainer manager
+
+Python programmer - The PyCompany Jan 2008 - August 2015
+Served as an internal resource for Python programming and documentation. Designed and developed small scale deliverables related to the custom study. Responsible for results reporting in the appropriate media and creation of supporting documentation for the client. Monitored products from datascience programs for accuracy, consistency and statistical validity. Designed and applied statistical and mathematical methods for corporate analytics that were implemented into client-facing products. Deep Learning expertise mainly in computer vision with PyTorch.
+
+Misc:
+Guitar, music, programming
