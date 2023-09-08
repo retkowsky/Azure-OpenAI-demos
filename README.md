@@ -29,7 +29,7 @@ Use of Azure Computer Vision and Langchain<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Go to demo folder</a>
 
 <b>- Azure Cognitive Search Vector Search Code Sample with Azure OpenAI:<br></b>
-A demo about code sample with Azure Open AI and Azure Cognitive Search and its vector store<br>
+A demo about JSON document analysis with Azure Open AI and Azure Cognitive Search and its vector store<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Go to demo folder</a>
 
 <b>- Python code analysis with Langchain, Azure Open AI and Azure Cognitive Search:<br></b>
