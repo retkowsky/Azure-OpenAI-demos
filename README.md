@@ -73,7 +73,7 @@ How to do sentiment analysis or text analytics with Azure Open AI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Text%20analytics%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
 - How to call a deployed Prompt Flow model?<br>
-Python code to call a prompt flow deployed model.
+Python code to call a prompt flow deployed model.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PromptFlow%20model%20deployment">Go to demo folder</a>
 
 ## Usecases
