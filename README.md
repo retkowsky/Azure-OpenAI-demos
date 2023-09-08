@@ -9,7 +9,7 @@ https://oai.azure.com/portal
 ## Azure Open AI demos
 
 - Azure Open AI basics:<br>
-Some basic Azure Open AI demos to understand and discover Azure Open AI<br>
+<b>Some basic Azure Open AI demos to understand and discover Azure Open AI<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Basics">Go to demo folder</a>
 
 - Azure Open AI quick demos:<br>
