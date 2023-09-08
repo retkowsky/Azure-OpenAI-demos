@@ -8,6 +8,9 @@ https://oai.azure.com/portal
 
 ## Azure Open AI demos
 
+- Azure Open AI basics:<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Basics">Go to demo folder</a>
+
 - Vectors embeddings for text, images and audio files:<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Go to demo folder</a>
 
