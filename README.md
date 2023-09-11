@@ -91,7 +91,7 @@ Python code to call a prompt flow deployed model.<br>
 <b>- :fire: New! Utilities:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
 
-<b>- :fire: NEW! Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
+<b>- :fire: New! Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services">Go to demo folder</a>
 
 
