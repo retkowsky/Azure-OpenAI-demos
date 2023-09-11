@@ -76,7 +76,7 @@ How to do sentiment analysis or text analytics with Azure Open AI<br>
 Python code to call a prompt flow deployed model.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PromptFlow%20model%20deployment">Go to demo folder</a>
 
-<b>- From text to emojies<br></b>
+<b>- From text to emojis<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/From%20text%20to%20emoji">Go to demo folder</a>
 
 <b>- Code optimization and conversion<br></b>
