@@ -77,7 +77,7 @@ Python code to call a prompt flow deployed model.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PromptFlow%20model%20deployment">Go to demo folder</a>
 
 <b>- :fire: New! From text to emojis:<br></b>
-How to categorize a text with some emojis with Azure Open AI/<br>
+How to categorize a text with some emojis with Azure Open AI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/From%20text%20to%20emoji">Go to demo folder</a>
 
 <b>- :fire: New! Code optimization and conversion:<br></b>
