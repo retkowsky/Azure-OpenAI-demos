@@ -91,6 +91,11 @@ Python code to call a prompt flow deployed model.<br>
 <b>- Utilities<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
 
+
+<>- Analyse audio meeting notes with Azure OpenAI and Azure Speech Services<br></a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services"Go to demo folder</a>
+
+
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
