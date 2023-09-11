@@ -77,21 +77,27 @@ Python code to call a prompt flow deployed model.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PromptFlow%20model%20deployment">Go to demo folder</a>
 
 <b>- :fire: New! From text to emojis:<br></b>
+How to categorize a text with some emojis with Azure Open AI/<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/From%20text%20to%20emoji">Go to demo folder</a>
 
 <b>- :fire: New! Code optimization and conversion:<br></b>
+How to optimize and convert some code with Azure Open AI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20Optimization%20and%20conversion">Go to demo folder</a>
 
 <b>- :fire: New! PowerPoint generation:<br></b>
+How to generate PowerPoint presentation with Azure Open AI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PowerPoint%20generation%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
 <b>- :fire: New! FHIR analysis:<br></b>
+How to analyse FHIR data (Fast Healthcare Interoperability Resources) with Azure Open AI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FHIR%20analysis">Go to demo folder</a>
 
 <b>- :fire: New! Utilities:<br></b>
+Some Azure Open AI utilities</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
 
 <b>- :fire: New! Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
+How to analyse an audio recording meeting notes with Azure Open AI and Azure Speech services for Speech to Text and Text to Speech<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services">Go to demo folder</a>
 
 
