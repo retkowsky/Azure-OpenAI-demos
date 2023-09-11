@@ -76,22 +76,22 @@ How to do sentiment analysis or text analytics with Azure Open AI<br>
 Python code to call a prompt flow deployed model.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PromptFlow%20model%20deployment">Go to demo folder</a>
 
-<b>- From text to emojis<br></b>
+<b>- From text to emojis:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/From%20text%20to%20emoji">Go to demo folder</a>
 
-<b>- Code optimization and conversion<br></b>
+<b>- Code optimization and conversion:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20Optimization%20and%20conversion">Go to demo folder</a>
 
-<b>- PowerPoint generation<br></b>
+<b>- PowerPoint generation:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PowerPoint%20generation%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
-<b>- FHIR analysis<br></b>
+<b>- FHIR analysis:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FHIR%20analysis">Go to demo folder</a>
 
-<b>- Utilities<br></b>
+<b>- Utilities:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
 
-<b>- Analyse audio meeting notes with Azure OpenAI and Azure Speech Services<br></a>
+<b>- Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></a>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services">Go to demo folder</a>
 
 
