@@ -88,6 +88,9 @@ Python code to call a prompt flow deployed model.<br>
 <b>- FHIR analysis<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FHIR%20analysis">Go to demo folder</a>
 
+<b>- Utilities<br></b>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
+
 ## Usecases
 - Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
 
