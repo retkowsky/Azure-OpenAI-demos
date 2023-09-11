@@ -72,23 +72,23 @@ How to do resume analysis with Azure Open AI<br>
 How to do sentiment analysis or text analytics with Azure Open AI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Text%20analytics%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
-<b>- :fire: NEW! How to call a deployed Prompt Flow model?<br></b>
+<b>- :fire: New! How to call a deployed Prompt Flow model?<br></b>
 Python code to call a prompt flow deployed model.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PromptFlow%20model%20deployment">Go to demo folder</a>
 
-<b>- :fire: NEW! From text to emojis:<br></b>
+<b>- :fire: New! From text to emojis:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/From%20text%20to%20emoji">Go to demo folder</a>
 
-<b>- :fire: NEW! Code optimization and conversion:<br></b>
+<b>- :fire: New! Code optimization and conversion:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20Optimization%20and%20conversion">Go to demo folder</a>
 
-<b>- :fire: NEW! PowerPoint generation:<br></b>
+<b>- :fire: New! PowerPoint generation:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PowerPoint%20generation%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
-<b>- :fire: NEW! FHIR analysis:<br></b>
+<b>- :fire: New! FHIR analysis:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FHIR%20analysis">Go to demo folder</a>
 
-<b>- :fire: NEW! Utilities:<br></b>
+<b>- :fire: New! Utilities:<br></b>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
 
 <b>- :fire: NEW! Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
