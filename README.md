@@ -199,6 +199,9 @@ https://github.com/fvneerden/azure-open-ai-embeddings-qna
 Azure OpenAI Embeddings QnA from Azure Video Indexer transcripts<br>
 https://github.com/fvneerden/azure-open-ai-embeddings-qna/tree/videosolacc
 
+## Azure OpenAI Landing Zone reference architecture
+https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102
+
 ## Azure Open AI demos videos
 Microsoft AI Show demos videos:<br>
 https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
