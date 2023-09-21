@@ -257,6 +257,6 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 
 ## Author
 05-Sept-2023<br>
-Updated 11-Sept-2023<br>
+Updated 21-Sept-2023<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
