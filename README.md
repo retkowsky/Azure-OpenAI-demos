@@ -125,7 +125,7 @@ An example of a PNR analysis with Azure Open AI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PNR%20analysis">Go to demo folder</a>
 
 <b>- :fire: New! Project management:<br></b>
-An example of a project management usecase.<br>
+An example of a project management use-case.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Project%20management">Go to demo folder</a>
 
 <b>- :fire: New! SAS language analysis:<br></b>
