@@ -6,7 +6,7 @@
 <br>
 https://oai.azure.com/portal
 
-## New content
+## New content (21-Sept-2023)
 
 <b> :fire: New! Azure Safety Content for text and images:<br></b>
 How to use Azure Safety Content for moderation on text and images<br>
