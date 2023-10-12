@@ -1,0 +1,39 @@
+Manufacturer,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Acura,MDX,SUV,Asia,All,36945.0,33337.0,3.5,6.0,265.0,17.0,23.0,4451.0,106.0,189.0
+Acura,RSX Type S 2dr,Sedan,Asia,Front,23820.0,21761.0,2.0,4.0,200.0,24.0,31.0,2778.0,101.0,172.0
+Acura,TSX 4dr,Sedan,Asia,Front,26990.0,24647.0,2.4,4.0,200.0,22.0,29.0,3230.0,105.0,183.0
+Acura,TL 4dr,Sedan,Asia,Front,33195.0,30299.0,3.2,6.0,270.0,20.0,28.0,3575.0,108.0,186.0
+Acura,3.5 RL 4dr,Sedan,Asia,Front,43755.0,39014.0,3.5,6.0,225.0,18.0,24.0,3880.0,115.0,197.0
+Acura,3.5 RL w/Navigation 4dr,Sedan,Asia,Front,46100.0,41100.0,3.5,6.0,225.0,18.0,24.0,3893.0,115.0,197.0
+Acura,NSX coupe 2dr manual S,Sports,Asia,Rear,89765.0,79978.0,3.2,6.0,290.0,17.0,24.0,3153.0,100.0,174.0
+Audi,A4 1.8T 4dr,Sedan,Europe,Front,25940.0,23508.0,1.8,4.0,170.0,22.0,31.0,3252.0,104.0,179.0
+Audi,A41.8T convertible 2dr,Sedan,Europe,Front,35940.0,32506.0,1.8,4.0,170.0,23.0,30.0,3638.0,105.0,180.0
+Audi,A4 3.0 4dr,Sedan,Europe,Front,31840.0,28846.0,3.0,6.0,220.0,20.0,28.0,3462.0,104.0,179.0
+Audi,A4 3.0 Quattro 4dr manual,Sedan,Europe,All,33430.0,30366.0,3.0,6.0,220.0,17.0,26.0,3583.0,104.0,179.0
+Audi,A4 3.0 Quattro 4dr auto,Sedan,Europe,All,34480.0,31388.0,3.0,6.0,220.0,18.0,25.0,3627.0,104.0,179.0
+Audi,A6 3.0 4dr,Sedan,Europe,Front,36640.0,33129.0,3.0,6.0,220.0,20.0,27.0,3561.0,109.0,192.0
+Audi,A6 3.0 Quattro 4dr,Sedan,Europe,All,39640.0,35992.0,3.0,6.0,220.0,18.0,25.0,3880.0,109.0,192.0
+Audi,A4 3.0 convertible 2dr,Sedan,Europe,Front,42490.0,38325.0,3.0,6.0,220.0,20.0,27.0,3814.0,105.0,180.0
+Audi,A4 3.0 Quattro convertible 2dr,Sedan,Europe,All,44240.0,40075.0,3.0,6.0,220.0,18.0,25.0,4013.0,105.0,180.0
+Audi,A6 2.7 Turbo Quattro 4dr,Sedan,Europe,All,42840.0,38840.0,2.7,6.0,250.0,18.0,25.0,3836.0,109.0,192.0
+Audi,A6 3.0 Avant Quattro,Wagon,Europe,All,40840.0,37060.0,3.0,6.0,220.0,18.0,25.0,4035.0,109.0,192.0
+Audi,S4 Avant Quattro,Wagon,Europe,All,49090.0,44446.0,4.2,8.0,340.0,15.0,21.0,3936.0,104.0,179.0
+BMW,X3 3.0i,SUV,Europe,All,37000.0,33873.0,3.0,6.0,225.0,16.0,23.0,4023.0,110.0,180.0
+BMW,X5 4.4i,SUV,Europe,All,52195.0,47720.0,4.4,8.0,325.0,16.0,22.0,4824.0,111.0,184.0
+BMW,325i 4dr,Sedan,Europe,Rear,28495.0,26155.0,2.5,6.0,184.0,20.0,29.0,3219.0,107.0,176.0
+BMW,325Ci 2dr,Sedan,Europe,Rear,30795.0,28245.0,2.5,6.0,184.0,20.0,29.0,3197.0,107.0,177.0
+BMW,325Ci convertible 2dr,Sedan,Europe,Rear,37995.0,34800.0,2.5,6.0,184.0,19.0,27.0,3560.0,107.0,177.0
+BMW,325xi 4dr,Sedan,Europe,All,30245.0,27745.0,2.5,6.0,184.0,19.0,27.0,3461.0,107.0,176.0
+BMW,330i 4dr,Sedan,Europe,Rear,35495.0,32525.0,3.0,6.0,225.0,20.0,30.0,3285.0,107.0,176.0
+BMW,330Ci 2dr,Sedan,Europe,Rear,36995.0,33890.0,3.0,6.0,225.0,20.0,30.0,3285.0,107.0,176.0
+BMW,330xi 4dr,Sedan,Europe,All,37245.0,34115.0,3.0,6.0,225.0,20.0,29.0,3483.0,107.0,176.0
+BMW,525i 4dr,Sedan,Europe,Rear,39995.0,36620.0,2.5,6.0,184.0,19.0,28.0,3428.0,114.0,191.0
+BMW,330Ci convertible 2dr,Sedan,Europe,Rear,44295.0,40530.0,3.0,6.0,225.0,19.0,28.0,3616.0,107.0,177.0
+BMW,530i 4dr,Sedan,Europe,Rear,44995.0,41170.0,3.0,6.0,225.0,20.0,30.0,3472.0,114.0,191.0
+BMW,545iA 4dr,Sedan,Europe,Rear,54995.0,50270.0,4.4,8.0,325.0,18.0,26.0,3814.0,114.0,191.0
+BMW,745i 4dr,Sedan,Europe,Rear,69195.0,63190.0,4.4,8.0,325.0,18.0,26.0,4376.0,118.0,198.0
+BMW,745Li 4dr,Sedan,Europe,Rear,73195.0,66830.0,4.4,8.0,325.0,18.0,26.0,4464.0,123.0,204.0
+BMW,M3 coupe 2dr,Sports,Europe,Rear,48195.0,44170.0,3.2,6.0,333.0,16.0,24.0,3415.0,108.0,177.0
+BMW,M3 convertible 2dr,Sports,Europe,Rear,56595.0,51815.0,3.2,6.0,333.0,16.0,23.0,3781.0,108.0,177.0
+
+
