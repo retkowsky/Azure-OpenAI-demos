@@ -14,8 +14,7 @@ https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT35-Instruct/gpt-35-
 🔥 New! Writer assistant:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Writer%20assistant/Writer%20assistant.ipynb
 
-🔥 New! Data generation:<br>
-Dataset generation with Azure Open AI
+🔥 New! Data generation with Azure Open AI:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Data%20generation/Data%20generation.ipynb
 
 🔥 New! Text to emojis and Emojis to text:<br>
