@@ -299,6 +299,9 @@ https://www.youtube.com/results?search_query=azure+open+ai
 ## Azure Open AI pricing
 https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
 
+## Azure Open AI
+If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
+
 ## Author
 05-Sept-2023<br>
 Updated 12-Oct-2023<br>
