@@ -1,6 +1,8 @@
 # Azure Open AI demos
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
+If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
+
 ## Azure Open AI Studio
 <img src="aoai.png">
 <br>
