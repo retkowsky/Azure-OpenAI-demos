@@ -1,20 +1,6 @@
 # Azure OpenAI
 
-## Introduction
-While there are already a few articles and reference architectures available for using Azure OpenAI and Azure OpenAI Landing Zones, this article/repo focuses on AOAI + APIM, **deploying at scale** using PTUs (Reserved Capacity) and TPM (Pay-As-You-Go), and best practices around this.
 
-### Brief Review of AOAI and APIM
-
-**Azure OpenAI (AOAI)**: Azure OpenAI Service provides generative AI technology for all using REST API access to OpenAI's powerful language models such as GPT4, GPT3.5 Turbo, Embeddings model series and others. By now, you should be already be familiar with the [Azure OpenAI service](https://azure.microsoft.com/en-us/products/ai-services/openai-service) so we won't go into those details.
-
-**API Management (APIM)**: APIs are the foundation of an API Management service instance. Each API represents a set of operations available to app developers.
-Each API contains a reference to the backend service that implements the API, and its operations map to backend operations. 
-Operations in API Management are highly configurable, with control over URL mapping, query and path parameters, request and response content, and operation response caching. You can read [additional details on using APIM](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts).
-In this article, we will cover configurations for APIM against AOAI service, and scaling this.
-
-Azure OpenAI provides an API endpoint to consume the AOAI service, and APIM utilizes this AOAI endpoint.
-Using APIM with AOAI, you can manage and implement policies to allow queuing, rate throttling, error handling, and managing usage quotas.
-When using Azure OpenAI with API Management, this gives you the most flexibility in terms of both queuing prompts (text sent to AOAI) as well as return code/error handling management. More later in this document on using APIM with AOAI.
 
 ## Understanding TPMs, RPMs and PTUs
 First, let's define TPMs, RPMs and PTUs in this section.
