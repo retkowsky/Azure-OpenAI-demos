@@ -1,6 +1,4 @@
-![image](https://github.com/Azure/aoai-apim/assets/9942991/19804cb2-ec27-4a20-914c-166826b31194)
-
-# Azure OpenAI Using PTUs/TPMs With API Management     	- Using the Scaling Special Sauce
+# Azure OpenAI Using PTUs/TPMs With API Management
 
 ## Introduction
 While there are already a few articles and reference architectures available for using Azure OpenAI and Azure OpenAI Landing Zones, this article/repo focuses on AOAI + APIM, **deploying at scale** using PTUs (Reserved Capacity) and TPM (Pay-As-You-Go), and best practices around this.
