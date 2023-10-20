@@ -1,12 +1,55 @@
 # Azure Open AI demos
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
+If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
+
 ## Azure Open AI Studio
 <img src="aoai.png">
 <br>
 https://oai.azure.com/portal
 
-## New content
+## New content (12-Oct-2023)
+
+🔥 New! GPT35 Turbo Instruct model with Azure Open AI:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT35-Instruct/gpt-35-turbo-instruct.ipynb
+
+🔥 New! Writer assistant:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Writer%20assistant/Writer%20assistant.ipynb
+
+🔥 New! Data generation with Azure Open AI:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Data%20generation/Data%20generation.ipynb
+
+🔥 New! Text to emojis and Emojis to text:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Emoji%20translation/Emoji%20translation.ipynb
+
+🔥 New! Twitter analysis:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Tweeter%20analysis/Tweeter%20analysis.ipynb
+
+🔥 New! PII analysis:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/PII%20analysis/PII%20analysis.ipynb
+
+🔥 New! Grammar analysis:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Grammar%20checking/Grammar.ipynb
+
+🔥 New! Heath report analysis:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Health%20report%20analysis/Health%20report%20analysis.ipynb
+
+🔥 New! Web article analysis:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Web%20article%20generation/Web%20article%20analysis.ipynb
+
+🔥 New! Entity analysis:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Entity%20analysis/Entity%20analysis.ipynb
+
+🔥 New! Docstring generation for python code:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Python%20docstring%20generation/Python%20DocString%20generation.ipynb
+
+🔥 New! CSV dataset analysis:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/CSV%20data%20analysis/CSV%20data%20analysis.ipynb
+
+🔥 New! GPT4 with Azure Open AI:<br>
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT4/Azure%20Open%20AI%20GPT4.ipynb
+
+## New content (21-Sept-2023)
 
 <b> :fire: New! Azure Safety Content for text and images:<br></b>
 How to use Azure Safety Content for moderation on text and images<br>
@@ -258,8 +301,11 @@ https://www.youtube.com/results?search_query=azure+open+ai
 ## Azure Open AI pricing
 https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
 
+## Azure Open AI
+If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
+
 ## Author
 05-Sept-2023<br>
-Updated 21-Sept-2023<br>
+Updated 12-Oct-2023<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
