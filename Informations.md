@@ -1,6 +1,16 @@
 # Azure OpenAI
 
+## Quotas and limites
+https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits
 
+## Models
+https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models
+
+## Pricing
+https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
+
+# What's new
+https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
 
 ## Understanding TPMs, RPMs and PTUs
 First, let's define TPMs, RPMs and PTUs in this section.
