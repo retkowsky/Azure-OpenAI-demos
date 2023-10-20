@@ -9,7 +9,7 @@ https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models
 ## Pricing
 https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
 
-# What's new
+## What's new
 https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
 
 ## Understanding TPMs, RPMs and PTUs
