@@ -1,6 +1,6 @@
 # Azure OpenAI
 
-## Quotas and limites
+## Quotas and limits
 https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits
 
 ## Models
