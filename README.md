@@ -235,7 +235,7 @@ Azure Cognitive Search Azure OpenAI Accelerator<br>
 https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator
 
 Azure Cognitive Search async Azure OpenAI<br>
-https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
+https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai<br>
 https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator/tree/main
 
 ## Responsible AI
