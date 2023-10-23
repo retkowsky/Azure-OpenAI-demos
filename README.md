@@ -10,22 +10,22 @@ https://oai.azure.com/portal
 
 ## New content (23-Oct-2023)
 
-🔥 New! Automatic data visualisation with LLM:
+🔥 New! Automatic data visualisation with LLM:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/LIDA/LIDA%20-%20Automatic%20Visualizations%20using%20LLM.ipynb
 
-🔥 New! Semantic kernel demo:
+🔥 New! Semantic kernel demo:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Semantic%20kernel/Semantic%20kernel.ipynb
 
-🔥 New! Fine tuning with Azure Open AI:
+🔥 New! Fine tuning with Azure Open AI:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Fine%20Tuning/Fine%20Tuning%20model.ipynb
 
-🔥 New! Time series analysis and forecasting with Azure Open AI:
+🔥 New! Time series analysis and forecasting with Azure Open AI:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Time%20series
 
-🔥 New! Webscraping analysis documents with Azure Open AI:
+🔥 New! Webscraping analysis documents with Azure Open AI:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Webscraping
 
-🔥 New! Airport code identification:
+🔥 New! Airport code identification:<br>
 https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Airport%20codes%20detection/Airport%20codes%20detection.ipynb
 
 ## New content (12-Oct-2023)
