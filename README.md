@@ -58,7 +58,7 @@ https://oai.azure.com/portal
 🔥 New! Web article analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Web%20article%20generation/Web%20article%20analysis.ipynb">Go to demo</a>
 <br>
-🔥 New! Entity analysis:<br>
+🔥 New! Entity analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Entity%20analysis/Entity%20analysis.ipynb">Go to demo</a>
 <br>
 🔥 New! Docstring generation for python code:
