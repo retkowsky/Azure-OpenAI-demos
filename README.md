@@ -8,6 +8,26 @@ If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/
 <br>
 https://oai.azure.com/portal
 
+## New content (23-Oct-2023)
+
+🔥 New! Automatic data visualisation with LLM:
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/LIDA/LIDA%20-%20Automatic%20Visualizations%20using%20LLM.ipynb
+
+🔥 New! Semantic kernel demo:
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Semantic%20kernel/Semantic%20kernel.ipynb
+
+🔥 New! Fine tuning with Azure Open AI:
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Fine%20Tuning/Fine%20Tuning%20model.ipynb
+
+🔥 New! Time series analysis and forecasting with Azure Open AI:
+https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Time%20series
+
+🔥 New! Webscraping analysis documents with Azure Open AI:
+https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Webscraping
+
+🔥 New! Airport code identification:
+https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Airport%20codes%20detection/Airport%20codes%20detection.ipynb
+
 ## New content (12-Oct-2023)
 
 🔥 New! GPT35 Turbo Instruct model with Azure Open AI:<br>
@@ -307,6 +327,6 @@ If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/
 
 ## Author
 05-Sept-2023<br>
-Updated 12-Oct-2023<br>
+Updated 23-Oct-2023<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
