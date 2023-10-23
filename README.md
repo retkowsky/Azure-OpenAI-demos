@@ -33,28 +33,40 @@ https://oai.azure.com/portal
 
 🔥 New! GPT35 Turbo Instruct model with Azure Open AI:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT35-Instruct/gpt-35-turbo-instruct.ipynb">Go to demo</a>
+<br>
 🔥 New! Writer assistant:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Writer%20assistant/Writer%20assistant.ipynb">Go to demo</a>
+<br>
 🔥 New! Data generation with Azure Open AI:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Data%20generation/Data%20generation.ipynb">Go to demo</a>
+<br>
 🔥 New! Text to emojis and Emojis to text:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Emoji%20translation/Emoji%20translation.ipynb">Go to demo</a>
+<br>
 🔥 New! Twitter analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Tweeter%20analysis/Tweeter%20analysis.ipynb">Go to demo</a>
+<br>
 🔥 New! PII analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/PII%20analysis/PII%20analysis.ipynb">Go to demo</a>
+<br>
 🔥 New! Grammar analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Grammar%20checking/Grammar.ipynb">Go to demo</a>
+<br>
 🔥 New! Heath report analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Health%20report%20analysis/Health%20report%20analysis.ipynb">Go to demo</a>
+<br>
 🔥 New! Web article analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Web%20article%20generation/Web%20article%20analysis.ipynb">Go to demo</a>
+<br>
 🔥 New! Entity analysis:<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Entity%20analysis/Entity%20analysis.ipynb">Go to demo</a>
+<br>
 🔥 New! Docstring generation for python code:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Python%20docstring%20generation/Python%20DocString%20generation.ipynb">Go to demo</a>
+<br>
 🔥 New! CSV dataset analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/CSV%20data%20analysis/CSV%20data%20analysis.ipynb">Go to demo</a>
+<br>
 🔥 New! GPT4 with Azure Open AI:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT4/Azure%20Open%20AI%20GPT4.ipynb">Go to demo</a>
 
