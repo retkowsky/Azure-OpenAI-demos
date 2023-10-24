@@ -8,46 +8,67 @@ If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/
 <br>
 https://oai.azure.com/portal
 
+## New content (23-Oct-2023)
+
+🔥 New! Automatic data visualisation with LLM:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/LIDA/LIDA%20-%20Automatic%20Visualizations%20using%20LLM.ipynb">Go to demo</a>
+<br>
+🔥 New! Semantic kernel demo:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Semantic%20kernel/Semantic%20kernel.ipynb">Go to demo</a>
+<br>
+🔥 New! Fine tuning with Azure Open AI:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Fine%20Tuning/Fine%20Tuning%20model.ipynb">Go to demo</a>
+<br>
+🔥 New! Time series analysis and forecasting with Azure Open AI:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Time%20series">Go to demo</a>
+<br>
+🔥 New! Webscraping analysis documents with Azure Open AI:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Webscraping">Go to demo</a>
+<br>
+🔥 New! Airport code identification:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Airport%20codes%20detection/Airport%20codes%20detection.ipynb">Go to demo</a>
+<br>
+
 ## New content (12-Oct-2023)
 
-🔥 New! GPT35 Turbo Instruct model with Azure Open AI:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT35-Instruct/gpt-35-turbo-instruct.ipynb
-
-🔥 New! Writer assistant:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Writer%20assistant/Writer%20assistant.ipynb
-
-🔥 New! Data generation with Azure Open AI:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Data%20generation/Data%20generation.ipynb
-
-🔥 New! Text to emojis and Emojis to text:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Emoji%20translation/Emoji%20translation.ipynb
-
-🔥 New! Twitter analysis:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Tweeter%20analysis/Tweeter%20analysis.ipynb
-
-🔥 New! PII analysis:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/PII%20analysis/PII%20analysis.ipynb
-
-🔥 New! Grammar analysis:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Grammar%20checking/Grammar.ipynb
-
-🔥 New! Heath report analysis:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Health%20report%20analysis/Health%20report%20analysis.ipynb
-
-🔥 New! Web article analysis:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Web%20article%20generation/Web%20article%20analysis.ipynb
-
-🔥 New! Entity analysis:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Entity%20analysis/Entity%20analysis.ipynb
-
-🔥 New! Docstring generation for python code:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Python%20docstring%20generation/Python%20DocString%20generation.ipynb
-
-🔥 New! CSV dataset analysis:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/CSV%20data%20analysis/CSV%20data%20analysis.ipynb
-
-🔥 New! GPT4 with Azure Open AI:<br>
-https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT4/Azure%20Open%20AI%20GPT4.ipynb
+🔥 New! GPT35 Turbo Instruct model with Azure Open AI:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT35-Instruct/gpt-35-turbo-instruct.ipynb">Go to demo</a>
+<br>
+🔥 New! Writer assistant:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Writer%20assistant/Writer%20assistant.ipynb">Go to demo</a>
+<br>
+🔥 New! Data generation with Azure Open AI:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Data%20generation/Data%20generation.ipynb">Go to demo</a>
+<br>
+🔥 New! Text to emojis and Emojis to text:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Emoji%20translation/Emoji%20translation.ipynb">Go to demo</a>
+<br>
+🔥 New! Twitter analysis:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Tweeter%20analysis/Tweeter%20analysis.ipynb">Go to demo</a>
+<br>
+🔥 New! PII analysis:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/PII%20analysis/PII%20analysis.ipynb">Go to demo</a>
+<br>
+🔥 New! Grammar analysis:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Grammar%20checking/Grammar.ipynb">Go to demo</a>
+<br>
+🔥 New! Heath report analysis:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Health%20report%20analysis/Health%20report%20analysis.ipynb">Go to demo</a>
+<br>
+🔥 New! Web article analysis:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Web%20article%20generation/Web%20article%20analysis.ipynb">Go to demo</a>
+<br>
+🔥 New! Entity analysis:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Entity%20analysis/Entity%20analysis.ipynb">Go to demo</a>
+<br>
+🔥 New! Docstring generation for python code:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Python%20docstring%20generation/Python%20DocString%20generation.ipynb">Go to demo</a>
+<br>
+🔥 New! CSV dataset analysis:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/CSV%20data%20analysis/CSV%20data%20analysis.ipynb">Go to demo</a>
+<br>
+🔥 New! GPT4 with Azure Open AI:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT4/Azure%20Open%20AI%20GPT4.ipynb">Go to demo</a>
 
 ## New content (21-Sept-2023)
 
@@ -235,7 +256,8 @@ Azure Cognitive Search Azure OpenAI Accelerator<br>
 https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator
 
 Azure Cognitive Search async Azure OpenAI<br>
-https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
+https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai<br>
+https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator/tree/main
 
 ## Responsible AI
 
@@ -306,6 +328,6 @@ If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/
 
 ## Author
 05-Sept-2023<br>
-Updated 12-Oct-2023<br>
+Updated 23-Oct-2023<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
