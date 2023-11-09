@@ -4,7 +4,7 @@
 If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
 
 ## Azure Open AI Studio
-<img src="aoai.png">
+<img src="aoai_repo_logo.png">
 <br>
 https://oai.azure.com/portal
 
