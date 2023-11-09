@@ -8,6 +8,36 @@ If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/
 <br>
 https://oai.azure.com/portal
 
+## New content (09-Nov-2023)
+
+🔥 New! Agenda content generation:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Agenda%20content%20generation/Agenda%20content%20generation.ipynb">Go to demo</a>
+<br>
+🔥 New! Autogen for stock prices analysis to get stock prices time series, financial analysis and Python visualization:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/AutoGen%20-%20stock%20prices%20demo.ipynb">Go to demo</a>
+<br>
+🔥 New! RAG application usecase (French legal usecase):
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20-%20French%20legal%20usecase/RAG%20-%20French%20legal%20usecase.ipynb">Go to demo</a>
+<br>
+🔥 New! Embeddings visualization with Atlas:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Embeddings/Visualizing%20embeddings%20with%20ATLAS.ipynb">Go to demo</a>
+<br>
+🔥 New! Emails summarization:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Emails%20summarization/Email%20summarization.ipynb">Go to demo</a>
+<br>
+🔥 New! Image storytelling using Azure Computer Vision and Azure Open AI:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Image%20storytelling/Image%20storytelling.ipynb">Go to demo</a>
+<br>
+🔥 New! Interviews questions generation:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Interviews%20generation/Interviews%20questions%20generation.ipynb">Go to demo</a>
+<br>
+🔥 New! Time zone detection:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Time%20zone%20detection/Time%20zone%20detection.ipynb">Go to demo</a>
+<br>
+🔥 New! YouTube speech transcription and summarization with Azure Open AI whisper:
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/YouTube%20speech%20summarization/YouTube%20speech%20summarization.ipynb">Go to demo</a>
+<br>
+
 ## New content (23-Oct-2023)
 
 🔥 New! Automatic data visualisation with LLM:
@@ -328,6 +358,6 @@ If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/
 
 ## Author
 05-Sept-2023<br>
-Updated 23-Oct-2023<br>
+Updated 09-Nov-2023<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
