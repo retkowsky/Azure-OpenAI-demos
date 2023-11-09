@@ -1,5 +1,5 @@
 # Azure Open AI demos
-<img src="aoai_repo_logo.png" width=500>
+<img src="aoai_repo_logo.png" width=700>
 
 If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
 
