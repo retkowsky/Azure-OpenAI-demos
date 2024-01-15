@@ -8,6 +8,25 @@ If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/
 <br>
 https://oai.azure.com/portal
 
+
+## New content (10-Jan-2024)
+
+🔥New! Generic Azure Open AI GPT-4 Turbo with Vision demos: 
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/gpt4-V">Go to demo</a>
+<br>
+🔥New! Build your images copilot retail description products demo using Azure Open AI GPT-4 Turbo with Vision:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/GPT4V-Fashion">Go to demo</a>
+<br>
+🔥New! Build your images copilot for plants using Azure Open AI GPT-4 Turbo with Vision:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/GPT4-V-Plant">Go to demo</a>
+<br>
+🔥New! Car report copilot for Insurance industry using Azure Open AI GPT-4 Turbo with Vision and Azure AI enhancements:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/GPT4-Vision%20and%20Azure%20AI%20enhancements">Go to demo</a>
+<br>
+🔥New! Automatic images extraction and analysis from a PDF file using Azure Open AI GPT-4 Turbo with Vision:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PDF%20images%20extraction%20and%20GPT4-Vision">Go to demo</a>
+<br>
+
 ## New content (09-Nov-2023)
 
 🔥 New! Agenda content generation:
@@ -357,7 +376,7 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
 
 ## Author
-05-Sept-2023<br>
-Updated 09-Nov-2023<br>
+Date of creaztion: 05-Sept-2023<br>
+Updated: 10-Jan-2024<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
