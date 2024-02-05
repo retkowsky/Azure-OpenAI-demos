@@ -376,7 +376,7 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
 
 ## Author
-Date of creaztion: 05-Sept-2023<br>
+Date of creation: 05-Sept-2023<br>
 Updated: 10-Jan-2024<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
