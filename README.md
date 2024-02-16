@@ -1,9 +1,9 @@
-# Azure Open AI demos
+# Azure OpenAI demos
 <img src="aoai_repo_logo.png" width=700>
 
-If you still does not have Azure Open AI access, apply now : https://aka.ms/oai/access
+If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/access
 
-## Azure Open AI Studio
+## Azure OpenAI Studio
 <img src="aoai.png">
 <br>
 https://oai.azure.com/portal
@@ -11,7 +11,7 @@ https://oai.azure.com/portal
 
 ## New content (10-Jan-2024)
 
-🔥New! Generic Azure Open AI GPT-4 Turbo with Vision demos: 
+🔥New! Generic Azure OpenAI GPT-4 Turbo with Vision demos: 
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/gpt4-V">Go to demo</a>
 <br>
 🔥New! Build your images copilot retail description products demo using Azure Open AI GPT-4 Turbo with Vision:
@@ -261,7 +261,7 @@ How to analyse an audio recording meeting notes with Azure Open AI and Azure Spe
 
 
 ## Usecases
-- Movies recommendation system using Azure Open AI and Azure Cognitive Search:<br>
+- Movies recommendation system using Azure OpenAI and Azure Cognitive Search:<br>
 
 <img src="https://github.com/retkowsky/images/blob/master/movies_search.png?raw=true">
 <br>
@@ -278,20 +278,20 @@ Some screenshots from the movies recommendation app using Azure Open AI and Azur
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp2.png?raw=true">
 <br><br>
 
-## Azure Open AI links
-Azure Open AI:<br>
+## Azure OpenAI links
+Azure OpenAI:<br>
 https://azure.microsoft.com/en-us/products/ai-services/openai-service-b
 
 Documentation:<br>
 https://learn.microsoft.com/en-us/azure/ai-services/openai/
 
-Azure Open AI Studio:<br>
+Azure OpenAI Studio:<br>
 https://oai.azure.com/portal
 
 What's new in Azure Open AI?<br>
 https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
 
-## Azure Open AI accelerators
+## Azure OpenAI accelerators
 
 Azure OpenAI Workshops<br>
 https://github.com/Azure/azure-openai-workshop
