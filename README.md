@@ -8,6 +8,26 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (06-March-2024)
+
+🔥New! Image comparisons: 
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Images%20comparison">Go to demo</a>
+<br>
+🔥New! Build your car damage copilot:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Car%20damage%20copilot">Go to demo</a>
+<br>
+🔥New! Chat with your own videos:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Chat%20with%20your%20own%20videos">Go to demo</a>
+<br>
+🔥New! Video to checklist generation:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20to%20document">Go to demo</a>
+<br>
+🔥New! Video dubbing (football example):
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20dubbing">Go to demo</a>
+<br>
+➡️ PowerPoint presentation of Azure OpenAI GPT-4 Turbo vision capabilities:
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20OpenAI%20GPT-4%20Turbo%20with%20Vision.pdf">Go to demo</a>
+<br>
 
 ## New content (10-Jan-2024)
 
