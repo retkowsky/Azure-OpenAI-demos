@@ -28,6 +28,9 @@ https://oai.azure.com/portal
 ➡️ PowerPoint presentation of Azure OpenAI GPT-4 Turbo vision capabilities:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20OpenAI%20GPT-4%20Turbo%20with%20Vision.pdf">Go to document</a>
 <br>
+📹 Demos videos are available here:
+<a href="https://www.youtube.com/playlist?list=PLy4MOYaxz3vM1a818vbxTY7JPO9IgenAN"> Go to demos videos on YouTube</a>
+<br>
 
 ## New content (10-Jan-2024)
 
