@@ -40,13 +40,8 @@ Microsoft recently introduced the ability to use reserved capacity, or Provision
 Beyond the default TPMs described above, this new Azure OpenAI service feature, PTUs, defines the model processing capacity, **using reserved resources**, for processing prompts and generating completions.  
 
 PTUs are purchased as a monthly commitment with an auto-renewal option, which will RESERVE AOAI capacity within an Azure subscription, using a specific model, in a specific Azure region. 
-Let's say if you have 300 PTUs provisioned for GPT 3.5 Turbo, the PTUs are provisioned for only GPT 3.5 Turbo deployments, within a specific Azure subscription, and not for GPT 4. You can have separate PTUs for GPT 4, with minimum PTUs described in the table below.  
 
-Keep in mind, while having reserved capacity does provide consistent latency and througput, throughput is highly dependent on your scenario. Throughput will be affected by a few items including number and ratio of prompts and generation tokens, number of simultaneous requests, and the type and version of model used.
-
-Table describing approximate TPMs expected in relation to PTUs, per model.
-
-![image](https://github.com/Azure/aoai-apim/assets/9942991/b24f5193-92cc-4cef-af73-e172b9ad1b73)
+https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput
 
 
 ## Limits
