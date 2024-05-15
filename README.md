@@ -11,7 +11,7 @@ https://oai.azure.com/portal
 
 ## New content (15-May-2024)
 🔥New! GPT-4o
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Images%20comparison">Go to document</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT-4o/GPT-4o%20in%20Azure%20OpenAI.pdf">Go to document</a>
 <br>
 
 ## New content (06-March-2024)
