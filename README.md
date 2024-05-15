@@ -8,6 +8,12 @@
 <br>
 https://oai.azure.com/portal
 
+
+## New content (15-May-2024)
+🔥New! GPT-4o
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Images%20comparison">Go to document</a>
+<br>
+
 ## New content (06-March-2024)
 
 🔥New! Image comparisons: 
@@ -400,6 +406,6 @@ If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/a
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 06-March-2024<br>
+Updated: 15-May-2024<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
