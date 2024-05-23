@@ -11,10 +11,10 @@ https://oai.azure.com/portal
 
 ## New content (23-May-2024)
 🔥New! GPT-4o Python SDK demo
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT-4o/GPT-4o%20model%20with%20Azure%20OpenAI.ipynb)">Go to demo</a>
-
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/GPT-4o/GPT-4o%20model%20with%20Azure%20OpenAI.ipynb">Go to demo</a>
+<br>
 🔥New! Phi-3 Vision demo
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/phi-3%20vision/Phi3-Vision.ipynb)">Go to demo</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/phi-3%20vision/Phi3-Vision.ipynb">Go to demo</a>
 <br>
 
 ## New content (15-May-2024)
