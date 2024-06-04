@@ -8,6 +8,10 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (04-June-2024)
+🔥New! Autogen demos
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen/">Go to demo folder</a>
+<br>
 
 ## New content (23-May-2024)
 🔥New! GPT-4o Python SDK demo
@@ -414,6 +418,6 @@ If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/a
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 23-May-2024<br>
+Updated: 04-June-2024<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
