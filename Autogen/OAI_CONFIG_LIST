@@ -1,16 +1,17 @@
 [
     {
         "model": "gpt-4",
-        "api_key": "tobereplaced",
-        "azure_endpoint": "tobereplaced",
+        "api_key": "TO_BE_REPLACED",
+        "azure_endpoint": "TO_BE_REPLACED",
         "api_type": "azure",
-        "api_version": "2023-07-01-preview"
+        "api_version": "2024-02-15-preview"
     },
     {
         "model": "gpt-4o",
-        "api_key": "tobereplaced",
-        "azure_endpoint": "tobereplaced",
+        "api_key": "TO_BE_REPLACED",
+        "azure_endpoint": "TO_BE_REPLACED",
         "api_type": "azure",
-        "api_version": "2023-07-01-preview"
+        "api_version": "2024-02-15-preview"
     }
 ]
+
