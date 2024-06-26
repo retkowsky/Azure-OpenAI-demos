@@ -1,0 +1,48 @@
+### Insights for Each Model
+
+#### GPT-4o
+1. **Performance Metrics**:
+   - **Requests per Minute (RPM)**: The RPM starts at 0 and gradually increases, peaking at 27 RPM.
+   - **Throughput (TPM)**: The throughput per minute (TPM) increases consistently, reaching a maximum of 40581.
+   - **Time to First Token (TTFT)**: The average TTFT decreases over time, starting from 0.295 seconds and reaching as low as 0.152 seconds.
+   - **End-to-End Latency (E2E)**: The average end-to-end latency starts at 6.035 seconds and decreases to around 6.202 seconds.
+   - **Failures**: There are no recorded failures throughout the dataset.
+   - **Utilization**: The utilization metrics are consistently at 0, indicating no throttling or resource constraints.
+
+2. **Trends**:
+   - **Efficiency**: The model becomes more efficient over time, as indicated by the decreasing TTFT and E2E latency.
+   - **Scalability**: The model handles increasing loads well, as seen by the increasing RPM and TPM without any failures.
+
+#### GPT-4-turbo-2024-04-09
+1. **Performance Metrics**:
+   - **Requests per Minute (RPM)**: The RPM starts at 0 and increases, peaking at 12 RPM.
+   - **Throughput (TPM)**: The throughput per minute (TPM) increases, reaching a maximum of 18036.
+   - **Time to First Token (TTFT)**: The average TTFT varies significantly, with some spikes up to 18.428 seconds.
+   - **End-to-End Latency (E2E)**: The average end-to-end latency is higher compared to GPT-4o, with values reaching up to 45.537 seconds.
+   - **Failures**: There are several recorded failures, especially at higher loads.
+   - **Utilization**: The utilization metrics show some throttling and resource constraints, especially at higher loads.
+
+2. **Trends**:
+   - **Efficiency**: The model shows variability in efficiency, with significant spikes in TTFT and E2E latency.
+   - **Scalability**: The model struggles with higher loads, as indicated by the increasing number of failures and higher latency.
+
+### Comparative Analysis
+
+1. **Performance**:
+   - **GPT-4o** consistently outperforms **GPT-4-turbo-2024-04-09** in terms of TTFT and E2E latency. The average TTFT for GPT-4o is around 0.152 to 0.295 seconds, while GPT-4-turbo-2024-04-09 shows higher variability and spikes up to 18.428 seconds.
+   - **GPT-4o** handles higher loads more efficiently, with a maximum RPM of 27 and TPM of 40581, compared to GPT-4-turbo-2024-04-09's maximum RPM of 12 and TPM of 18036.
+
+2. **Reliability**:
+   - **GPT-4o** shows no recorded failures, indicating high reliability and robustness under varying loads.
+   - **GPT-4-turbo-2024-04-09** experiences several failures, especially at higher loads, indicating potential issues with reliability and stability.
+
+3. **Scalability**:
+   - **GPT-4o** scales well with increasing loads, maintaining low latency and high throughput without failures.
+   - **GPT-4-turbo-2024-04-09** struggles with scalability, showing increased latency and failures as the load increases.
+
+4. **Utilization**:
+   - **GPT-4o** shows no signs of throttling or resource constraints, indicating efficient resource management.
+   - **GPT-4-turbo-2024-04-09** shows signs of throttling and resource constraints, especially at higher loads, which could impact performance and reliability.
+
+### Conclusion
+**GPT-4o** demonstrates superior performance, reliability, and scalability compared to **GPT-4-turbo-2024-04-09**. It handles higher loads more efficiently, with lower latency and no recorded failures. In contrast, **GPT-4-turbo-2024-04-09** shows variability in performance, higher latency, and several failures under load, indicating potential issues with scalability and reliability.
