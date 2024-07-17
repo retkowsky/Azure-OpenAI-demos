@@ -8,6 +8,12 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (17-July-2024)
+🔥New! Neo4j and Azure OpenAI
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Neo4j">Go to notebooks</a>
+<br>
+
+
 ## New content (18-June-2024)
 🔥New! Azure OpenAI model benchmarks
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Benchmarks/Azure%20OpenAI%20benchmarks.ipynb">Go to notebook</a>
@@ -423,6 +429,6 @@ If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/a
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 18-June-2024<br>
+Updated: 17-July-2024<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
