@@ -15,9 +15,9 @@ The GPT-4o-2024-08-06 model is designed to perform a wide range of tasks with mi
 
 🔥New! RAG with Azure Document Intelligence and Azure OpenAI gpt-4o mini (Document analysis).
 <br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Document%20analysis).ipynb">Demo</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Document%20analysis).ipynb">Demo 1</a>
 <br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Image%20analysis).ipynb">Demo</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Image%20analysis).ipynb">Demo 2</a>
 <br>
 
 🔥New! Images analysis with Azure Document Intelligence and Azure OpenAI gpt-4o mini<br>
