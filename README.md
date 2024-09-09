@@ -8,6 +8,38 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (09-Sept-2024)
+🔥New! Structured outputs with GPT-4o<br>
+The GPT-4o-2024-08-06 model is designed to perform a wide range of tasks with minimal cost and latency, making it perfect for applications that require fast, real-time text responses. With the introduction of JSON Structured Outputs, it delivers 100% reliability in evaluations, ensuring outputs perfectly match the defined output schemas. This innovation enhances the efficiency and accuracy of AI-powered applications across diverse use cases.
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Structured%20outputs%20with%20GPT-4o/Structured%20outputs%20with%20Azure%20OpenAI%20GPT-4o%202024-08-06.ipynb">Go to notebook</a>
+<br>
+
+🔥New! RAG with Azure Document Intelligence and Azure OpenAI gpt-4o mini (Document analysis).
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Document%20analysis).ipynb">Demo</a>
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Image%20analysis).ipynb">Demo</a>
+<br>
+
+🔥New! Images analysis with Azure Document Intelligence and Azure OpenAI gpt-4o mini<br>
+This notebook provides an example of how to use Azure AI Document Intelligence to output detected figures and the hierarchical document structure in markdown.
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/Images%20analysis%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini.ipynb">Demo</a>
+<br>
+
+🔥New! Semantic chunking<br>
+Semantic Chunking considers the relationships within the text. It divides the text into meaningful, semantically complete chunks. This approach ensures the information’s integrity during retrieval, leading to a more accurate and contextually appropriate outcome.
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Semantic%20Chunking">Demo</a>
+<br>
+
+🔥New! Azure OpenAI Batch<br>
+The Azure OpenAI Batch API is designed to handle large-scale and high-volume processing tasks efficiently. Process asynchronous groups of requests with separate quota, with 24-hour target turnaround, at 50% less cost than global standard. With batch processing, rather than send one request at a time you send a large number of requests in a single file. Global batch requests have a separate enqueued token quota avoiding any disruption of your online workloads.
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/AzureOpenAI%20Batch">Demo</a>
+<br>
+
 ## New content (17-July-2024)
 🔥New! Neo4j and Azure OpenAI
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Neo4j">Go to notebooks</a>
@@ -429,6 +461,6 @@ If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/a
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 17-July-2024<br>
+Updated: 09-Sept-2024<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
