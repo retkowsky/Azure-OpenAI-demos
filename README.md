@@ -1,8 +1,6 @@
 # Azure OpenAI demos
 <img src="aoai_repo_logo.png" width=700>
 
-> If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/access
-
 ## Azure OpenAI Studio
 <img src="aoai.png">
 <br>
