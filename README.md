@@ -8,20 +8,20 @@ https://oai.azure.com/portal
 
 ## New content (09-Sept-2024)
 🔥New! Structured outputs with GPT-4o<br>
-The GPT-4o-2024-08-06 model is designed to perform a wide range of tasks with minimal cost and latency, making it perfect for applications that require fast, real-time text responses. With the introduction of JSON Structured Outputs, it delivers 100% reliability in evaluations, ensuring outputs perfectly match the defined output schemas. This innovation enhances the efficiency and accuracy of AI-powered applications across diverse use cases.
+The GPT-4o-2024-08-06 model is designed to perform a wide range of tasks with minimal cost and latency, making it perfect for applications that require fast, real-time text responses. The introduction of JSON Structured Outputs delivers 100% reliability in evaluations, ensuring outputs perfectly match the defined output schemas. This innovation enhances the efficiency and accuracy of AI-powered applications across diverse use cases.
 <br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Structured%20outputs%20with%20GPT-4o/Structured%20outputs%20with%20Azure%20OpenAI%20GPT-4o%202024-08-06.ipynb">Go to notebook</a>
 <br>
 
-🔥New! RAG with Azure Document Intelligence and Azure OpenAI gpt-4o mini (Document analysis).
+🔥New! RAG with Azure Document Intelligence and Azure OpenAI GPT-4o mini (Document analysis).
 <br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Document%20analysis).ipynb">Demo 1</a>
 <br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini%20(Image%20analysis).ipynb">Demo 2</a>
 <br>
 
-🔥New! Images analysis with Azure Document Intelligence and Azure OpenAI gpt-4o mini<br>
-This notebook provides an example of how to use Azure AI Document Intelligence to output detected figures and the hierarchical document structure in markdown.
+🔥New! Images analysis with Azure Document Intelligence and Azure OpenAI GPT-4o mini<br>
+This notebook provides an example of using Azure AI Document Intelligence to output detected figures and the hierarchical document structure in markdown.
 <br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI/Images%20analysis%20with%20Azure%20Document%20Intelligence%20and%20Azure%20OpenAI%20gpt-4o%20mini.ipynb">Demo</a>
 <br>
@@ -33,7 +33,7 @@ Semantic Chunking considers the relationships within the text. It divides the te
 <br>
 
 🔥New! Azure OpenAI Batch<br>
-The Azure OpenAI Batch API is designed to handle large-scale and high-volume processing tasks efficiently. Process asynchronous groups of requests with separate quota, with 24-hour target turnaround, at 50% less cost than global standard. With batch processing, rather than send one request at a time you send a large number of requests in a single file. Global batch requests have a separate enqueued token quota avoiding any disruption of your online workloads.
+The Azure OpenAI Batch API is designed to handle large-scale and high-volume processing tasks efficiently. Process asynchronous groups of requests with separate quotas, with 24-hour target turnaround, at 50% less cost than the global standard. With batch processing, rather than sending one request at a time, you send many requests in a single file. Global batch requests have a separate enqueued token quota avoiding any disruption of your online workloads.
 <br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/AzureOpenAI%20Batch">Demo</a>
 <br>
@@ -117,7 +117,7 @@ The Azure OpenAI Batch API is designed to handle large-scale and high-volume pro
 🔥 New! Autogen for stock prices analysis to get stock prices time series, financial analysis and Python visualization:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Autogen/AutoGen%20-%20stock%20prices%20demo.ipynb">Go to demo</a>
 <br>
-🔥 New! RAG application usecase (French legal usecase):
+🔥 New! RAG application use case (French legal use case):
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/RAG%20-%20French%20legal%20usecase/RAG%20-%20French%20legal%20usecase.ipynb">Go to demo</a>
 <br>
 🔥 New! Embeddings visualization with Atlas:
@@ -129,7 +129,7 @@ The Azure OpenAI Batch API is designed to handle large-scale and high-volume pro
 🔥 New! Image storytelling using Azure Computer Vision and Azure OpenAI:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Image%20storytelling/Image%20storytelling.ipynb">Go to demo</a>
 <br>
-🔥 New! Interviews questions generation:
+🔥 New! Interview questions generation:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Interviews%20generation/Interviews%20questions%20generation.ipynb">Go to demo</a>
 <br>
 🔥 New! Time zone detection:
@@ -141,19 +141,19 @@ The Azure OpenAI Batch API is designed to handle large-scale and high-volume pro
 
 ## New content (23-Oct-2023)
 
-🔥 New! Automatic data visualisation with LLM:
+🔥 New! Automatic data visualization with LLM:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/LIDA/LIDA%20-%20Automatic%20Visualizations%20using%20LLM.ipynb">Go to demo</a>
 <br>
 🔥 New! Semantic kernel demo:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Semantic%20kernel/Semantic%20kernel.ipynb">Go to demo</a>
 <br>
-🔥 New! Fine tuning with Azure OpenAI:
+🔥 New! Fine-tuning with Azure OpenAI:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Fine%20Tuning/Fine%20Tuning%20model.ipynb">Go to demo</a>
 <br>
 🔥 New! Time series analysis and forecasting with Azure OpenAI:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Time%20series">Go to demo</a>
 <br>
-🔥 New! Webscraping analysis documents with Azure OpenAI:
+🔥 New! Web scraping analysis documents with Azure OpenAI:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Webscraping">Go to demo</a>
 <br>
 🔥 New! Airport code identification:
@@ -192,7 +192,7 @@ The Azure OpenAI Batch API is designed to handle large-scale and high-volume pro
 🔥 New! Entity analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Entity%20analysis/Entity%20analysis.ipynb">Go to demo</a>
 <br>
-🔥 New! Docstring generation for python code:
+🔥 New! Docstring generation for Python code:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Python%20docstring%20generation/Python%20DocString%20generation.ipynb">Go to demo</a>
 <br>
 🔥 New! CSV dataset analysis:
@@ -232,11 +232,11 @@ An example of a project management use-case.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Project%20management">Go to demo folder</a>
 
 <b> :fire: New! SAS language analysis:<br></b>
-How to analyse SAS language to generate insights and to convert it into others languages.<br>
+How to analyze SAS language to generate insights and to convert it into others languages.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/SAS%20analysis">Go to demo folder</a>
 
 <b> :fire: New! Azure OpenAI Whisper for Speech to Text and analysis:<br></b>
-Use of Azure OpenAI Whisper new integration for speech to text and analysis with Azure OpenAI.<br>
+Use of Azure OpenAI Whisper new integration for speech-to-text and analysis with Azure OpenAI.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Speech%20to%20text%20with%20Whisper">Go to demo folder</a>
 
 <b> :fire: New! Document translation with Azure OpenAI:<br></b>
@@ -258,7 +258,7 @@ Some demos for a quick Azure OpenAI workshop<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Open%20AI%20quick%20demos">Go to demo folder</a>
 
 <b>- Vectors embeddings for text, images and audio files:<br></b>
-Presentation of vectors embeddings for text, images and audio files. A quick demo to understand the embedding process.<br>
+Presentation of vector embeddings for text, images and audio files. A quick demo to understand the embedding process.<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Go to demo folder</a>
 
 <b>- Embeddings with Pandas:<br></b>
@@ -270,7 +270,7 @@ Use of Azure Computer Vision and Langchain<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Go to demo folder</a>
 
 <b>- Azure Cognitive Search Vector Search JSON document analysis with Azure OpenAI:<br></b>
-A demo about JSON document analysis with Azure OpenAI and Azure Cognitive Search and its vector store<br>
+A demo of JSON document analysis with Azure OpenAI and Azure Cognitive Search and its vector store<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Go to demo folder</a>
 
 <b>- Python code analysis with Langchain, Azure OpenAI and Azure Cognitive Search:<br></b>
@@ -278,7 +278,7 @@ A demo about Python notebooks analysis with Azure OpenAI and Azure Cognitive Sea
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Go to demo folder</a>
 
 <b>- PDF documents analysis with Langchain, Azure OpenAI and Azure Cognitive Search:<br></b>
-A demo about analysing PDF documents with Langchain, Azure OpenAI and Azure Cognitive Search and its vector store<br>
+A demo about analyzing PDF documents with Langchain, Azure OpenAI and Azure Cognitive Search and its vector store<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Go to demo folder</a>
 
 <b>- Llama:<br></b>
@@ -286,15 +286,15 @@ Simple introduciton to LLAMA<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Go to demo folder</a>
 
 <b>- Dall-e 2 images generation:<br></b>
-How to generae artificial images with Azure OpenAI and Dall e 2<br>
+How to generate artificial images with Azure OpenAI and Dall e 2<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Artificial%20images%20with%20Dall-e%202">Go to demo folder</a>
 
 <b>- Python function integration:<br></b>
-How to integrate python functions with Azure OpenAI<br>
+How to integrate Python functions with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Python%20functions%20integration">Go to demo folder</a>
 
 <b>- Video Indexer transcripts analysis with Azure OpenAI and Azure Cognitive Search:<br></b>
-How to analyse Azure Video Indexer transcripts with Azure OpenAI<br>
+How to analyze Azure Video Indexer transcripts with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Go to demo folder</a>
 
 <b>- Email response generation:<br></b>
@@ -330,7 +330,7 @@ How to generate PowerPoint presentation with Azure OpenAI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PowerPoint%20generation%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
 <b>- FHIR analysis:<br></b>
-How to analyse FHIR data (Fast Healthcare Interoperability Resources) with Azure OpenAI</br>
+How to analyze FHIR data (Fast Healthcare Interoperability Resources) with Azure OpenAI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FHIR%20analysis">Go to demo folder</a>
 
 <b>- Utilities:<br></b>
@@ -338,11 +338,11 @@ Some Azure OpenAI utilities</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
 
 <b>- Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
-How to analyse an audio recording meeting notes with Azure OpenAI and Azure Speech services for Speech to Text and Text to Speech<br>
+How to analyze an audio recording meeting notes with Azure OpenAI and Azure Speech services for Speech to Text and Text to Speech<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services">Go to demo folder</a>
 
 
-## Usecases
+## Use cases
 - Movies recommendation system using Azure OpenAI and Azure Cognitive Search:<br>
 
 <img src="https://github.com/retkowsky/images/blob/master/movies_search.png?raw=true">
@@ -351,12 +351,12 @@ How to analyse an audio recording meeting notes with Azure OpenAI and Azure Spee
 <br>
 <br>
 
-Some screenshots from the movies recommendation app using Azure OpenAI:
+Some screenshots from the movie recommendation app using Azure OpenAI:
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp1.png?raw=true">
 
 <br>
 
-Some screenshots from the movies recommendation app using Azure OpenAI and Azure Cognitive Search:
+Some screenshots from the movie recommendation app using Azure OpenAI and Azure Cognitive Search:
 <img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp2.png?raw=true">
 <br><br>
 
@@ -401,7 +401,7 @@ https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
 Content filtering<br>
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter
 
-## Some additional Azure OpenAI ressources
+## Some additional Azure OpenAI resources
 Learn Azure OpenAI<br>
 https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/
 
@@ -429,7 +429,7 @@ https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
 Learn how to customize a model for your application<br>
 https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/how-to/fine-tuning?pivots=programming-language-python
 
-Llm based virtual assistant demo<br>
+Llm-based virtual assistant demo<br>
 https://github.com/csiebler/llm-based-virtual-assistant-demo
 
 Customer Service Conversational Insights with Azure OpenAI<br>
@@ -455,7 +455,7 @@ https://www.youtube.com/results?search_query=azure+open+ai
 https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
 
 ## Azure OpenAI
-If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/access
+If you still do not have Azure OpenAI access, apply now: https://aka.ms/oai/access
 
 ## Author
 Date of creation: 05-Sept-2023<br>
