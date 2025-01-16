@@ -9,12 +9,10 @@ https://oai.azure.com/portal
 ## New content (16-Jan-2025)
 
 🔥New! AI audio and video podcast generator using Azure OpenAI, Azure Document Intelligence and Azure AI Speech services<br>
-<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/AI%20podcast%20generation">Go to notebook</a>
 <br>
 
 🔥New! GPT-4o fine tuning model for object detection with Azure OpenAI<br>
-<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Gpt-4o%20Fine%20tuning">Go to notebook</a>
 <br>
 
