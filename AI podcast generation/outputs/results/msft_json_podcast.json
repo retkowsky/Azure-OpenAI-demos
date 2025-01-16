@@ -1,0 +1,107 @@
+{
+    "config": {
+        "language": "en-US"
+    },
+    "script": [
+        {
+            "name": "Jenny",
+            "message": "Hey everyone! Welcome back to another episode of 'Market Buzz!' I'm Jenny."
+        },
+        {
+            "name": "Brian",
+            "message": "And I\u2019m Brian! Uhm, today we\u2019ve got some exciting stuff to chat about\u2014Microsoft Corporation, or MSFT as the cool kids say."
+        },
+        {
+            "name": "Jenny",
+            "message": "Haha, right?! So, Brian, did you catch the latest stock price? It\u2019s sitting at 426.31 right now!"
+        },
+        {
+            "name": "Brian",
+            "message": "Wow, that\u2019s a nice jump of over two and a half percent! I mean, what\u2019s going on there? Is it time to buy?"
+        },
+        {
+            "name": "Jenny",
+            "message": "Yeah, totally! It\u2019s like everyone\u2019s been buzzing about it. Like, their market cap is over 3 trillion\u2014no big deal."
+        },
+        {
+            "name": "Brian",
+            "message": "Right? And did you see the earnings date coming up? January 29, 2025? That\u2019s gonna be a big one."
+        },
+        {
+            "name": "Jenny",
+            "message": "Oh for sure! And you know how it is with earnings reports. Everyone\u2019s either holding their breath or biting their nails."
+        },
+        {
+            "name": "Brian",
+            "message": "Haha, exactly! I mean, what do you think? Do you think they\u2019ll beat expectations this time?"
+        },
+        {
+            "name": "Jenny",
+            "message": "Mmm, I mean, looking at their past performance, they usually do pretty well, right? Their PE ratio is sitting at 35.20."
+        },
+        {
+            "name": "Brian",
+            "message": "True, but a high PE ratio can be a bit risky too, right? It\u2019s like, do investors expect too much?"
+        },
+        {
+            "name": "Jenny",
+            "message": "Yeah, it\u2019s a double-edged sword! But hey, with all their products like Office 365 and Teams, they\u2019ve got a strong foothold in the market."
+        },
+        {
+            "name": "Brian",
+            "message": "And don\u2019t forget about Microsoft 365 Copilot! That thing is a game-changer. It\u2019s all about AI now!"
+        },
+        {
+            "name": "Jenny",
+            "message": "Ugh, I love it! It\u2019s like they\u2019re making everything smarter and easier to use. Who wouldn\u2019t want that?"
+        },
+        {
+            "name": "Brian",
+            "message": "Right? And I read somewhere that they\u2019ve got about 228,000 full-time employees. That\u2019s a small city!"
+        },
+        {
+            "name": "Jenny",
+            "message": "Haha, yeah! So, uh, let\u2019s talk dividends too. They\u2019ve got a forward dividend yield of 0.78%. That\u2019s not too shabby!"
+        },
+        {
+            "name": "Brian",
+            "message": "Exactly! It\u2019s like, if you\u2019re investing, you\u2019re not just hoping for stock price increases, but also for some cash flow!"
+        },
+        {
+            "name": "Jenny",
+            "message": "Totally! And the ex-dividend date is coming up on February 20, 2025. So, if people want that dividend, they better pay attention!"
+        },
+        {
+            "name": "Brian",
+            "message": "Wow, it\u2019s like a game of musical chairs! You gotta be quick, haha!"
+        },
+        {
+            "name": "Jenny",
+            "message": "Haha, right? So, what do you think? Should folks be looking at MSFT as a solid investment?"
+        },
+        {
+            "name": "Brian",
+            "message": "I mean, I think it\u2019s definitely worth considering, especially with all the innovation happening there."
+        },
+        {
+            "name": "Jenny",
+            "message": "For sure! But, as always, do your research, folks! Don\u2019t just take our word for it."
+        },
+        {
+            "name": "Brian",
+            "message": "Exactly! And hey, if you\u2019re interested in this topic, we\u2019d love to dive deeper into tech stocks in future episodes."
+        },
+        {
+            "name": "Jenny",
+            "message": "Yes! And maybe even explore how AI is shaping the industry. That would be super fun!"
+        },
+        {
+            "name": "Brian",
+            "message": "Oh, I\u2019d love that! Alright, folks, that\u2019s a wrap for today\u2019s episode. Thanks for tuning in to 'Market Buzz!'"
+        },
+        {
+            "name": "Jenny",
+            "message": "Yeah! Stay informed, and happy investing! See you next time!"
+        }
+    ]
+}
