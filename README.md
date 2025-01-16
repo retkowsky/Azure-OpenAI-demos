@@ -12,7 +12,7 @@ https://oai.azure.com/portal
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/AI%20podcast%20generation">Go to notebook</a>
 <br>
 
-🔥New! GPT-4o fine tuning model for object detection with Azure OpenAI<br>
+🔥New! GPT-4o fine tuning model for VQA with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Gpt-4o%20Fine%20tuning">Go to notebook</a>
 <br>
 
