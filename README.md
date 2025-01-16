@@ -6,6 +6,18 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (16-Jan-2025)
+
+🔥New! AI audio and video podcast generator using Azure OpenAI, Azure Document Intelligence and Azure AI Speech services<br>
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/AI%20podcast%20generation">Go to notebook</a>
+<br>
+
+🔥New! GPT-4o fine tuning model for object detection with Azure OpenAI<br>
+<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Gpt-4o%20Fine%20tuning">Go to notebook</a>
+<br>
+
 ## New content (09-Sept-2024)
 🔥New! Structured outputs with GPT-4o<br>
 The GPT-4o-2024-08-06 model is designed to perform a wide range of tasks with minimal cost and latency, making it perfect for applications that require fast, real-time text responses. With the introduction of JSON Structured Outputs, it delivers 100% reliability in evaluations, ensuring outputs perfectly match the defined output schemas. This innovation enhances the efficiency and accuracy of AI-powered applications across diverse use cases.
@@ -459,6 +471,6 @@ If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/a
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 09-Sept-2024<br>
+Updated: 16-Jan-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
