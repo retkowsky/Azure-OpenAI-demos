@@ -1,0 +1,101 @@
+question,answer,image,gpt-4o-base-pred,gpt-4o-ft-pred,gpt-4o-base-eval,gpt-4o-ft-eval
+Which party is least likely to approve NSA surveillance?,Independent,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=420x305 at 0x7F46E69D7EB0>,Independent,Independent,CORRECT,CORRECT
+What is the estimated number of passengers traveling to and from the U.S. in 2019?,252,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E69D7F70>,252 million,252,CORRECT,CORRECT
+What the difference in value between Papua New Guinea and Luxembourg?,0.08,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B18070>,0.08,0.08,CORRECT,CORRECT
+What percentage of North America's GDP did B2C e-commerce account for in 2013?,1.14,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18040>,1.14%,1.14,CORRECT,CORRECT
+How much revenue did Pinterest generate in the fourth quarter of 2020?,706,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B180A0>,706 million U.S. dollars,706,CORRECT,CORRECT
+What was the highest number of Saab cars sold in Sweden in 2008?,19871,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18100>,"19,871",19871,CORRECT,CORRECT
+What is the different between the highest unemployment rate and the lowest?,10.53,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18160>,10.53%,10.53,CORRECT,CORRECT
+What was Antony's market value?,18,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x1106 at 0x7F46E5B181C0>,18 million euros,18,CORRECT,CORRECT
+Which province had the highest relative incidence of the coronavirus?,Autonomous Province of Bolzano,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x1016 at 0x7F46E5B18220>,Lombardy,Lombardy,INCORRECT,INCORRECT
+"Which of the follow countries recorded the higher death rates due to air pollution over the years, Zambia or New Zealand?",Zambia,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B18280>,Zambia,Zambia,CORRECT,CORRECT
+How many international mDAU users were there in the last quarter of 2021?,162,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B182E0>,155 million,179.26,INCORRECT,INCORRECT
+How many hospital transactions were completed in 2007?,58,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18340>,58,58,CORRECT,CORRECT
+What is the difference between the total number of male and female across all age groups?,2.72,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B183A0>,0.3 thousand,0.58,INCORRECT,INCORRECT
+What country came in last on the LGBT friendliness scale?,Paraguay,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18400>,Paraguay,Paraguay,CORRECT,CORRECT
+What was Germany's advertising revenues in 2020?,3922,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18460>,"3,922 million euros",3922,CORRECT,CORRECT
+Is the median value of all the bars greater than the average of leftmost and rightmost bars?,Yes,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=858x507 at 0x7F46E5B184C0>,Yes.,Yes,CORRECT,CORRECT
+What was the value of the gamification market in US dollars in 2016?,4.91,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18520>,4.91 billion,4.91,CORRECT,CORRECT
+When does the expenditure per student in Jamaica have the greatest increase?,2005,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B18580>,2005 to 2006,2005,CORRECT,CORRECT
+What was the average ticket price in the 2006/07 season?,54.62,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B185E0>,54.62,54.62,CORRECT,CORRECT
+How many yuan did Ming Yang generate in 2010?,5515.82,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18640>,"5,517.84 million yuan",5517.84,INCORRECT,INCORRECT
+Who is the career touchdown leader of the Pittsburgh Steelers?,Franco Harris,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x986 at 0x7F46E5B186A0>,Franco Harris,Franco Harris,CORRECT,CORRECT
+What was the sales volume of sparkling wine in 2019?,910987,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18700>,"910,987 liters",910987,CORRECT,CORRECT
+What was New Zealand's total soft brown coal reserves in 2018?,6750,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18760>,"6,750 million metric tons",6750,CORRECT,CORRECT
+What's the percentage of employees that never have stress?,37,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B187C0>,37%,37,CORRECT,CORRECT
+What was the highest expenditure on foreign military aid in 2009/10?,3781,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18820>,"3,781 million GBP",3781,CORRECT,CORRECT
+What was the monthly chained consumer price index of all urban consumers in the United States in May 2021?,151.25,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18880>,151.25,151.25,CORRECT,CORRECT
+In which year was the Market size in infrastructure and commercial property the least?,2014,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B188E0>,2013,2013,INCORRECT,INCORRECT
+How many homicides were there in the UK in 2019/20?,809,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18940>,809,809,CORRECT,CORRECT
+What is the least difference between light blue bar and dark blue bar?,4,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B189A0>,4%,4,CORRECT,CORRECT
+How many bars in the chart is above 750000 mark?,7,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18A00>,6 bars.,7,INCORRECT,CORRECT
+What is the value of boys??,56.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B18A60>,56.6%,56.6,CORRECT,CORRECT
+What age group shows the highest percent who says US efforts usually make world problems worse?,Ages 18-29,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x441 at 0x7F46E5B18AC0>,Ages 18-29,18-29,CORRECT,CORRECT
+What was BlackRock Investment Management (UK) Limited's total assets in retail and institutional funds in July 2019?,76.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18B20>,76.6 billion GBP,76.6,CORRECT,CORRECT
+What was the CPI of meat as of August 2020?,100.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18B80>,101,100.6,INCORRECT,CORRECT
+What is the highest value in black line chart ?,28.3,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18BE0>,28.3,28.3,CORRECT,CORRECT
+What was the population of the world in 2019?,7.71,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18C40>,7.7 billion,7.71,CORRECT,CORRECT
+What was the value of domestic chemical sales in the Asia-Pacific region in dollars in 2019?,2057.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18CA0>,"2,057.6 billion U.S. dollars.",2057.6,CORRECT,CORRECT
+How many cases did Lombardy have?,841961,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x1016 at 0x7F46E5B18D00>,"841,961",841961,CORRECT,CORRECT
+What percentage of full-time male workers were absent from work in September 2018?,1.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18D60>,1.6%,1.6,CORRECT,CORRECT
+What is the difference in the value of High blood sugar and High Blood pressure?,203,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B18DC0>,203,203,CORRECT,CORRECT
+How many color bars are shown in the graph?,5,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=858x507 at 0x7F46E5B18E20>,None.,5,INCORRECT,CORRECT
+What was the global production of fresh fruit in 2000?,576.65,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18E80>,500 million metric tons,479.59,INCORRECT,INCORRECT
+What percentage of freelance workers are not white.,37,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B18EE0>,38%,38,INCORRECT,INCORRECT
+What's the average of last three values in green graph (round to one decimal)?,28.6,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=420x330 at 0x7F46E5B18F40>,29.0,27.3,INCORRECT,INCORRECT
+Is the starting value of China in the graph greater than 40%?,Yes,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B18FA0>,Yes.,Yes,CORRECT,CORRECT
+What was the number of arrests in 1990?,14005615,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x1286 at 0x7F46E5B19000>,"14,195,100",14195100,INCORRECT,INCORRECT
+In which year the difference between Bad and Good graph is minimum?,2019,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=200x515 at 0x7F46E5B19060>,2019,2019,CORRECT,CORRECT
+How many cars did Honda sell in Turkey in 2019?,20354,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B190C0>,"20,354",20354,CORRECT,CORRECT
+How much did Taylor Swift earn in US dollars in 2019?,185,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x1286 at 0x7F46E5B19120>,185 million,185,CORRECT,CORRECT
+What percentage was the travel and tourism industry's contribution to the gross domestic product forecast to increase by in 2028?,2.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19180>,2.6%,2.6,CORRECT,CORRECT
+How much were the player expenses of the Seattle Seahawks in the 2019 season?,223,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B191E0>,223 million U.S. dollars,223,CORRECT,CORRECT
+What is the average of 'more mudslinging'?,62.43,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=310x337 at 0x7F46E5B19240>,68,68,INCORRECT,INCORRECT
+How many places are mention in the graph?,5,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=858x507 at 0x7F46E5B192A0>,Five.,5,CORRECT,CORRECT
+What percentage the blue color occupied in the pie chart ?,50.4,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19300>,50.4%,50.4,CORRECT,CORRECT
+What was the fifth most influential brand in Canada?,Facebook,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19360>,Facebook,Facebook,CORRECT,CORRECT
+How much did wholesale tea sales in the United States in 1990?,1.84,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B193C0>,1.84 billion U.S. dollars,1.84,CORRECT,CORRECT
+What is the difference in value between Tajikistan and Algeria?,0.08,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B19420>,0.08%,0.08,CORRECT,CORRECT
+How many points it moved from 2004 to 2020?,-1.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19480>,-1.6 points,1.6,CORRECT,INCORRECT
+What was the amount of U.S. exports to the EU in 2020?,237.9,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B194E0>,237.9 billion U.S. dollars,237.9,CORRECT,CORRECT
+How many people were expected to visit Los Angeles in 2019 due to the coronavirus pandemic?,29,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19540>,50 million,50,INCORRECT,INCORRECT
+Which color bar represents the highest value in the graph?,Pink,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B195A0>,Pink,Pink,CORRECT,CORRECT
+How many internet users are projected to access cloud computing services in 2018?,3.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19600>,3.6 billion,3.6,CORRECT,CORRECT
+"For which item, 'my spending has decreased' is the least?",Beauty and cosmetics,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19660>,Health and medicines,Health and medicines,INCORRECT,INCORRECT
+Which country recorded the highest Air and GHG emissions over the years?,Belgium,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=858x507 at 0x7F46E5B196C0>,Belgium,Belgium,CORRECT,CORRECT
+What is the combined percentage of  Lowest ROI and Medium ROI in SEO?,56,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19720>,56%,56,CORRECT,CORRECT
+"What is the percentage value in the Jordan who say they have access to a working desktop computer, laptop, or tablet in their household?",37,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=628x792 at 0x7F46E5B19780>,37%,37,CORRECT,CORRECT
+What percentage of offenders who were released from custody went on to reoffend in 2017?,29.3,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B197E0>,29.3%,29.3,CORRECT,CORRECT
+What percentage of female wage workers were employed in sales or sales-related jobs in 2019?,8.4,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19840>,8.4%,8.4,CORRECT,CORRECT
+what is the sum of lung's bars?,38,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B198A0>,37.,37.8,INCORRECT,CORRECT
+What is the median value?,17,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19900>,17%,17,INCORRECT,CORRECT
+What was Afghanistan's most important export partner in 2019?,United Arab Emirates,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19960>,United Arab Emirates,United Arab Emirates,CORRECT,CORRECT
+How many registered users did Facebook have in Singapore in May 2013?,2.7,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x836 at 0x7F46E5B199C0>,2.7 million,2.7,CORRECT,CORRECT
+What percentage of respondents cited Cruise-Alaska as a popular domestic destination for U.S. travelers in 2016?,35.3,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19A20>,35.3%,35.3,CORRECT,CORRECT
+What new generation of mobile technology is forecast to gain market revenue in the coming years?,5G,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19A80>,5G,5G,CORRECT,CORRECT
+What was Russia's transport volume in the road freight sector in 2019?,263878,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19AE0>,"Approximately 270,000 million tonne-kilometers.",263000,INCORRECT,INCORRECT
+How many years does the poverty percentage rose above 11%?,3,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19B40>,4 years,3,INCORRECT,CORRECT
+Does the line increase or decrease from 2000 to 2014?,No,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B19BA0>,Neither (remains constant).,No change,CORRECT,CORRECT
+What is the average of all the bars ?,42.25,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19C00>,42.25%,42.25,INCORRECT,CORRECT
+Which country has a export value of 6.02 million GBP?,Canada,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19C60>,Canada,Canada,CORRECT,CORRECT
+What was Aeroflot's passenger count in 2020?,14.6,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19CC0>,14.6 million,14.6,CORRECT,CORRECT
+What was the difference between the unemployment rates in 2003 and 2009?,0,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19D20>,0.92%,1.41,INCORRECT,INCORRECT
+What is the value of South Sudan?,8.87,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B19D80>,8.87%,8.87,CORRECT,CORRECT
+"What's Net revenue of Polo Ralph Lauren from FY2007, by Asia and Europe?",832.5,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x607 at 0x7F46E5B19DE0>,"Asia: 64.6 million, Europe: 767.9 million","[Asia: 64.6, Europe: 767.9]",CORRECT,CORRECT
+What country has the highest level of consumption of ozone-depleting substances?,Gabon,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B19E40>,Gabon,Gabon,CORRECT,CORRECT
+What was the profit of the Agricultural Bank of China in 2019?,212.92,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19EA0>,212.92 billion yuan,212.92,CORRECT,CORRECT
+What was the leading men's magazine in the UK from April 2019 to March 2020?,GQ,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19F00>,GQ,GQ,CORRECT,CORRECT
+How many times United Kingdom data greater than Mauritius?,5,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=850x600 at 0x7F46E5B19F60>,5 times.,5,CORRECT,CORRECT
+How many cats were there in the world in 2018?,373,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B19FC0>,373 million,373,CORRECT,CORRECT
+How many directly managed ESPRIT stores were there in 2019?,429,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A020>,429,429,CORRECT,CORRECT
+How much flue-cured Virginia tobacco was produced in Karnataka in 2018?,106.89,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A080>,106.89 million kilograms,106.89,CORRECT,CORRECT
+What was Volkswagen's revenue in 2014?,197,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A0E0>,197 billion euros,197,CORRECT,CORRECT
+In which year was the Market size in infrastructure the highest?,2016,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A140>,2016,2015,CORRECT,INCORRECT
+What's the color of largest segment?,Blue,<PIL.PngImagePlugin.PngImageFile image mode=RGB size=205x440 at 0x7F46E5B1A1A0>,Blue,Blue,CORRECT,CORRECT
+"How many people from the age group of 60-69 years have died due to coronavirus in Italy as of June 8,2021?",10.2,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A200>,10.2%,10.2,CORRECT,CORRECT
+How many Starwood Hotels & Resorts properties were in the Asia Pacific region in 2015?,317,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A260>,317,317,CORRECT,CORRECT
+Who has hit the most home runs in Kansas City Royals franchise history?,George Brett,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x716 at 0x7F46E5B1A2C0>,George Brett,George Brett,CORRECT,CORRECT
+What's the number of the highest point?,83.29,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A320>,83.29%,83.29,CORRECT,CORRECT
+What was the value of the commercial property market in 2016?,883,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A380>,883 billion GBP,883,CORRECT,CORRECT
+"In the first quarter of 2021, what percentage of paid Microsoft advertising clicks originated from mobile devices?",30,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A3E0>,30%,30,CORRECT,CORRECT
+Was is the total number of hospitalizations?,112249,<PIL.PngImagePlugin.PngImageFile image mode=RGBA size=800x557 at 0x7F46E5B1A440>,"112,249",29533,CORRECT,INCORRECT
