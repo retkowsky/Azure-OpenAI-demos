@@ -9,11 +9,11 @@ https://oai.azure.com/portal
 ## New content (23-Jan-2025)
 
 🔥New! Image classification with gpt-4o<br>
-<a href="">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/gpt-4o-image-classification">Go to notebook</a>
 <br>
 
 🔥New! gpt-4o model fine-tuning for image classification<br>
-<a href="">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/gpt-4o-image-classification-finetuning">Go to notebook</a>
 <br>
 
 
@@ -480,6 +480,6 @@ If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/a
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 16-Jan-2025<br>
+Updated: 23-Jan-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
