@@ -6,6 +6,17 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (23-Jan-2025)
+
+🔥New! Image classification with gpt-4o<br>
+<a href="">Go to notebook</a>
+<br>
+
+🔥New! gpt-4o model fine-tuning for image classification<br>
+<a href="">Go to notebook</a>
+<br>
+
+
 ## New content (16-Jan-2025)
 
 🔥New! AI audio and video podcast generator using Azure OpenAI, Azure Document Intelligence and Azure AI Speech services<br>
