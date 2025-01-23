@@ -1,6 +1,6 @@
 # gpt-4o model fine tuning with Azure AI Foundry for image classification
 
-We are using some images from the NEU dataset to predict the class of metal defect.
+We are using some images from the <a href="https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database'>NEU dataset</a> to predict the class of metal defect.
 These defects are categorized into six classes: cracks (cr), inclusions (in), patches (pa), pitted surfaces (ps), rolled-in scale (rs), and scratches (sc).
 
 - Step 1 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-4o-image-classification-finetuning/1%20Analyzing%20images%20with%20Azure%20Content%20Safety.ipynb">Go to Notebook 1</a> We are using Azure Content Safety to detect any issues with the images
