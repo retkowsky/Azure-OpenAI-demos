@@ -6,6 +6,11 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (06-Feb-2025)
+🔥New! Azure OpenAI audio generation<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20OpenAI%20audio%20generation/Azure%20OpenAI%20Gpt4o%20Audio.ipynb">Go to notebook</a>
+<br>
+
 ## New content (23-Jan-2025)
 
 🔥New! Image classification with gpt-4o<br>
