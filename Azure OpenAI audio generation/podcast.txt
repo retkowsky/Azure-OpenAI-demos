@@ -1,0 +1,14 @@
+Building on the powerful yet flexible Assistants API, Azure AI Agent Service has built-in memory management and a sophisticated interface to seamlessly integrate with popular compute platforms, bridging LLM capabilities with general purpose, programmatic actions.
+
+Enable your agent to take actions with 1400+ Azure Logic Apps connectors: Leverage a wide ecosystem of connectors in Logic Apps to enable your agent to complete tasks and take actions on behalf of your users. With Logic apps, you simply need to define the business logic for your workflow in Azure Portal to connect your agent to external systems, tools and APIs.
+
+Examples of connectors include Microsoft products such as Azure App Service, Dynamics365 Customer Voice, Microsoft Teams, M365 Excel, and leading enterprise services such as MongoDB, Dropbox, Jira, Gmail, Twilio, SAP, Stripe, ServiceNow and many more.
+
+Think beyond chat mode by implement stateless or stateful code-based actions with Azure Functions: Enable your agent to perform external interactions with the world, such as calling APIs or asynchronously sending and waiting for events. Azure Functions and Azure Durable Actions enable you to execute serverless code for synchronous, asynchronous, long running, and event-driven actions such as approving invoices with human-in-the-loop, monitor an end-to-end product supply chain over long periods of time, and many more.
+
+Perform advanced data analysis with Code Interpreter: Enable your agent to write and execute Python code in a secure environment, handle diverse data formats and generate files with data and visuals. Unlike the Assistants API, you can integrate data in your storage to use with this tool.
+
+Build standardized library of tools with OpenAPI specifications: Connect your AI agent to an external API using an OpenAPI 3.0 specified tool, allowing for scalable interoperability with various applications. Enable your custom tools to authenticate access and connections with managed identities (Microsoft Entra ID) for added security, making it ideal for integrating with existing infrastructure or web services.
+
+Extend Llama Stack agents with cloud-hosted tools: Azure AI Agent Service supports the agent protocol for developers that are using Llama Stack SDKs. We will natively offer scalable, cloud-hosted, enterprise grade tools, while being wireline compatible with Llama Stack.
+
