@@ -7,12 +7,13 @@
 https://oai.azure.com/portal
 
 ## New content (14-Feb-2025)
-🔥New! o3-mini<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o3/Azure%20OpenAI%20o3%20mini%20examples.ipynb">Go to notebook</a>
-<br>
 
 🔥New! o1-mini<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o1/Azure%20OpenAI%20o1%20mini%20examples.ipynb">Go to notebook</a>
+<br>
+
+🔥New! o3-mini<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o3/Azure%20OpenAI%20o3%20mini%20examples.ipynb">Go to notebook</a>
 <br>
 
 🔥New! Gpt-4o Fine tuning<br>
