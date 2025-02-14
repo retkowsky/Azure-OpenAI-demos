@@ -6,6 +6,19 @@
 <br>
 https://oai.azure.com/portal
 
+## New content (14-Feb-2025)
+🔥New! o3-mini<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o3/Azure%20OpenAI%20o3%20mini%20examples.ipynb">Go to notebook</a>
+<br>
+
+🔥New! o1-mini<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o1/Azure%20OpenAI%20o1%20mini%20examples.ipynb">Go to notebook</a>
+<br>
+
+🔥New! Gpt-4o Fine tuning<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Gpt-4o-Text-FineTuning/Text%20classification%20with%20gpt-4o%20fine%20tuned%20model.ipynb">Go to notebook</a>
+<br>
+
 ## New content (06-Feb-2025)
 🔥New! Azure OpenAI audio generation<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20OpenAI%20audio%20generation/Azure%20OpenAI%20Gpt4o%20Audio.ipynb">Go to notebook</a>
@@ -485,6 +498,6 @@ If you still does not have Azure OpenAI access, apply now : https://aka.ms/oai/a
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 23-Jan-2025<br>
+Updated: 14-Feb-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
