@@ -30,7 +30,7 @@ https://oai.azure.com/portal
 <br>
 
 🔥New! gpt-4.1 examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt41/gpt41.ipynb">Go to notebook">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt41/gpt41.ipynb">Go to notebook</a>
 <br>
 
 🔥New! gpt-4o mini TTS<br>
