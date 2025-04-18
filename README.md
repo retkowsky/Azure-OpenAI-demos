@@ -2,7 +2,7 @@
 <img src="aoai_repo_logo.png" width=700>
 
 ## Azure OpenAI Studio
-<img src="foundry_ui.png">
+<img src="foundry_ui.jpg">
 <br>
 https://ai.azure.com/
 
