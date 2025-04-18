@@ -9,40 +9,40 @@ https://oai.azure.com/portal
 ## New content (18-Apr-2025)
 
 🔥New! Mistral in Azure AI Foundry<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/mistral/mistral.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/mistral/mistral.ipynb">Go to notebook</a>
 <br>
 
 🔥New! Mistral OCR in Azure AI Foundry<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/mistral/mistral%20OCR.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/mistral/mistral%20OCR.ipynb">Go to notebook</a>
 <br>
 
 🔥New! o1 on images<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o1/o1%20on%20images.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o1/o1%20on%20images.ipynb">Go to notebook</a>
 <br>
 
 🔥New! Stored Completions with Azure AI Foundry<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Stored%20completions/Stored%20completions.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Stored%20completions/Stored%20completions.ipynb">Go to notebook</a>
 <br>
 
 🔥New! Responses API examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20examples.ipynb>Go to notebook</a>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20webapp.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20examples.ipyn"b>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20webapp.ipynb">Go to notebook</a>
 <br>
 
 🔥New! gpt-4.1 examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt41/gpt41.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt41/gpt41.ipynb>Go to notebook"</a>
 <br>
 
 🔥New! gpt-4o mini TTS<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt4ominiTTS/gpt4ominiTTS.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt4ominiTTS/gpt4ominiTTS.ipynb>Go to notebook"</a>
 <br>
 
 🔥New! gpt-4o mini Transcribe<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt4ominitranscribe/gpt-4o%20mini%20transcribe.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt4ominitranscribe/gpt-4o%20mini%20transcribe.ipynb">Go to notebook</a>
 <br>
 
 🔥New! o4-mini examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o4mini/Azure%20OpenAI%20o4%20mini%20examples.ipynb>Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o4mini/Azure%20OpenAI%20o4%20mini%20examples.ipynb">Go to notebook</a>
 <br>
 
 ## New content (14-Feb-2025)
