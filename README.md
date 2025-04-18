@@ -1,5 +1,8 @@
 ## Azure AI Foundry GenAI demos
-<img src="foundry_ui.jpg">
+<img src="foundry_repo.jpg">
+<br>
+
+<img src="foundry_gui.jpg">
 <br>
 https://ai.azure.com/
 
