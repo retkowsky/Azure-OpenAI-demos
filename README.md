@@ -1,7 +1,4 @@
-# Azure GenAI demos
-<img src="aoai_repo_logo.png" width=700>
-
-## Azure AI Foundry
+## Azure AI Foundry GenAI demos
 <img src="foundry_ui.jpg">
 <br>
 https://ai.azure.com/
