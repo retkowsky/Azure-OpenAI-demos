@@ -25,16 +25,16 @@ https://oai.azure.com/portal
 <br>
 
 🔥New! Responses API examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20examples.ipynb">Go to notebook</a>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20webapp.ipynb">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20examples.ipynb">Go to notebook 1</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20webapp.ipynb">Go to notebook 2</a>
 <br>
 
 🔥New! gpt-4.1 examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt41/gpt41.ipynb>Go to notebook"</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt41/gpt41.ipynb>Go to notebook">Go to notebook</a>
 <br>
 
 🔥New! gpt-4o mini TTS<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt4ominiTTS/gpt4ominiTTS.ipynb>Go to notebook"</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt4ominiTTS/gpt4ominiTTS.ipynb">Go to notebook"</a>
 <br>
 
 🔥New! gpt-4o mini Transcribe<br>
