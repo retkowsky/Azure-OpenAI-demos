@@ -25,7 +25,7 @@ https://oai.azure.com/portal
 <br>
 
 🔥New! Responses API examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20examples.ipynb">Go to notebook 1</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20examples.ipynb">Go to notebook 1</a><br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Responses%20API/Responses%20API%20webapp.ipynb">Go to notebook 2</a>
 <br>
 
