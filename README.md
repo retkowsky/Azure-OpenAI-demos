@@ -42,7 +42,8 @@ https://ai.azure.com/
 <br>
 
 🔥New! o4-mini examples<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o4mini/Azure%20OpenAI%20o4%20mini%20examples.ipynb">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o4mini/Azure%20OpenAI%20o4%20mini%20examples.ipynb">Go to notebook 1</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/o4mini/o4%20mini%20examples%20on%20images.ipynb">Go to notebook 2</a>
 <br>
 
 ## New content (14-Feb-2025)
