@@ -8,15 +8,15 @@ https://ai.azure.com/
 
 ## New content (29-Apr-2025)
 🔥New!gpt-image-1 on Azure AI Foundry - Image Generation<br>
-<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20generation.ipynb">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20generation.ipynb">Go to notebook</a>
 <br>
 
 🔥New!gpt-image-1 on Azure AI Foundry - Image Edition<br>
-<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20edition.ipynb">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20edition.ipynb">Go to notebook</a>
 <br>
 
 🔥New!gpt-image-1 on Azure AI Foundry - Image Compose<br>
-<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20Compose.ipynb">Go to notebook</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20Compose.ipynb">Go to notebook</a>
 <br>
 
 ## New content (18-Apr-2025)
