@@ -6,6 +6,19 @@
 <br>
 https://ai.azure.com/
 
+## New content (29-Apr-2025)
+🔥New!gpt-image-1 on Azure AI Foundry - Image Generation<br>
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20generation.ipynb">Go to notebook</a>
+<br>
+
+🔥New!gpt-image-1 on Azure AI Foundry - Image Edition<br>
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20edition.ipynb">Go to notebook</a>
+<br>
+
+🔥New!gpt-image-1 on Azure AI Foundry - Image Compose<br>
+<a href=https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20Compose.ipynb">Go to notebook</a>
+<br>
+
 ## New content (18-Apr-2025)
 
 🔥New! Mistral in Azure AI Foundry<br>
@@ -536,6 +549,6 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 18-Apr-2025<br>
+Updated: 29-Apr-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
