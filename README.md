@@ -6,6 +6,28 @@
 <br>
 https://ai.azure.com/
 
+
+## New content (30-Apr-2025)
+🔥New! Azure AI Agent Service - Single agent<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/1%20Azure%20AI%20Agent%20service%20-%20Single%20agent.ipynb">Go to notebook</a>
+<br>
+
+🔥New! Azure AI Agent Service - Many agents<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/2%20Azure%20AI%20Agent%20service%20-%20Many%20agents.ipynb">Go to notebook</a>
+<br>
+
+🔥New! Azure AI Agent Service - File search (simple RAG analysis)<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/3%20Azure%20AI%20Agent%20Service%20-%20File%20Search.ipynb">Go to notebook</a>
+<br>
+
+🔥New! Azure AI Agent Service - Code interpreter (EDA on a dataset example)<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/4%20Azure%20AI%20Agent%20service%20-%20Code%20interpreter.ipynb">Go to notebook</a>
+<br>
+
+🔥New! Azure AI Agent Service - User function (example with weather forecasts provided by Azure Maps Weather Services)<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/5%20Azure%20AI%20Agent%20service%20-%20Function%20calling.ipynb">Go to notebook</a>
+<br>
+
 ## New content (29-Apr-2025)
 🔥New! gpt-image-1 on Azure AI Foundry - Image Generation<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20generation.ipynb">Go to notebook</a>
@@ -553,6 +575,6 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 29-Apr-2025<br>
+Updated: 30-Apr-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
