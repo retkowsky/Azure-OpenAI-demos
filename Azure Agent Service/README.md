@@ -1,4 +1,4 @@
-# Azure AI Agent
+# What is Azure AI Agent Service (Preview)?
 <img src="agent.jpg">
 
 **Azure AI Agent Service** is a stateful, extensible platform that combines generative AI models with tools to interact with real-world data and APIs. 
