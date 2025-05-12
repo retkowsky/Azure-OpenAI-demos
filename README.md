@@ -28,6 +28,10 @@ https://ai.azure.com/
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/5%20Azure%20AI%20Agent%20service%20-%20Function%20calling.ipynb">Go to notebook</a>
 <br>
 
+🔥New! Azure AI Agent Service - Bing Search integration<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/6%20Azure%20AI%20Agent%20service%20-%20Bing%20integration.ipynb">Go to notebook</a>
+<br>
+
 ## New content (29-Apr-2025)
 🔥New! gpt-image-1 on Azure AI Foundry - Image Generation<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt-image-1/Azure%20AI%20Foundry%20gpt-image-1%20-%20Image%20generation.ipynb">Go to notebook</a>
