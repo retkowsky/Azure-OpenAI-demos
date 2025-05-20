@@ -1,0 +1,33 @@
+{
+	"scenario": "videoShot",
+	"fieldSchema": {
+		"fields": {
+			"Description": {
+				"type": "string",
+				"method": "generate",
+				"description": "Describe in detail the steps discussed in this segment based on the visual and transcript"
+			},
+			"Category": {
+				"type": "string",
+				"method": "generate",
+				"description": "Categorize the description to determine the main topic and purpose of the video segment."
+			},
+			"SafetyInstruction": {
+				"type": "string",
+				"method": "generate",
+				"description": "Identify what safety instructions are identified here"
+			},
+			"KeyTips": {
+				"type": "string",
+				"method": "generate",
+				"description": "Identify the key tips discussed in this segment as a numbered list"
+			},
+			"KeyFrame": {
+				"type": "string",
+				"method": "generate",
+				"description": "Identify the key frame in this segment that most clearly illustrates the key point of this segment. It must be a frame included in the markdown transcript. Output it in miliseconds - for example, 1188."
+			}
+		},
+		"definitions": {}
+	}
+}
