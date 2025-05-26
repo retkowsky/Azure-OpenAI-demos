@@ -6,6 +6,20 @@
 <br>
 https://ai.azure.com/
 
+## New content
+🔥New! 0 AutoGen - Settings<br>
+🔥New! 1 AutoGen - Introduction<br>
+🔥New! 2 AutoGen - Simple agent for financial analysis<br>
+🔥New! 3 Autogen - Azure AI Agent integration<br>
+🔥New! 4 AutoGen - Chatbot<br>
+🔥New! 5 AutoGen - Enabling LLM-powered agents to cooperate<br>
+🔥New! 6 AutoGen - Multi agents<br>
+🔥New! 7 Autogen - Multi agent with image generation<br>
+🔥New! 8 AutoGen - Human interaction<br>
+🔥New! 9 AutoGen - Multimodal<br>
+
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen">Go to notebools</a>
+<br>
 
 ## New content (30-Apr-2025)
 🔥New! Azure AI Agent Service - Single agent<br>
