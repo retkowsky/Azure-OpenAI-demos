@@ -6,7 +6,7 @@
 <br>
 https://ai.azure.com/
 
-## New content
+## New content (21-May-2025)
 🔥New! 0 AutoGen - Settings<br>
 🔥New! 1 AutoGen - Introduction<br>
 🔥New! 2 AutoGen - Simple agent for financial analysis<br>
@@ -18,7 +18,7 @@ https://ai.azure.com/
 🔥New! 8 AutoGen - Human interaction<br>
 🔥New! 9 AutoGen - Multimodal<br>
 
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen">Go to notebools</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Autogen">Go to notebooks</a>
 <br>
 
 ## New content (30-Apr-2025)
@@ -593,6 +593,6 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 30-Apr-2025<br>
+Updated: 21-May-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
