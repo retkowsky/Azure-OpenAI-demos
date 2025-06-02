@@ -6,6 +6,23 @@
 <br>
 https://ai.azure.com/
 
+## New content (02-June-2025)
+🔥New! SORA with Azure AI Foundry<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/sora/SORA%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
+<br>
+🔥New! Image to Video with gpt4o and SORA<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/sora/Image%20to%20Video%20with%20gpt4o%20and%20SORA.ipynb">Go to notebook</a>
+<br>
+🔥New! Video to Video with gpt4o and SORA<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/sora/Video%20to%20Video%20with%20gpt4o%20and%20SORA.ipynb">Go to notebook</a>
+<br>
+🔥New! Introducing agentic retrieval in Azure AI Search.ipynb<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Agentic%20RAG/Introducing%20agentic%20retrieval%20in%20Azure%20AI%20Search.ipynb">Go to notebook</a>
+<br>
+🔥New! Model router<br>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Model%20router/Model%20router.ipynb">Go to notebook</a>
+<br>
+
 ## New content (21-May-2025)
 🔥New! AutoGen - Settings<br>
 🔥New! AutoGen - Introduction<br>
