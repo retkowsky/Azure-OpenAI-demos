@@ -7,19 +7,19 @@
 https://ai.azure.com/
 
 ## New content (02-June-2025)
-🔥New! SORA with Azure AI Foundry<br>
+🔥New! SORA with Azure AI Foundry
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/sora/SORA%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
 <br>
-🔥New! Image to Video with gpt4o and SORA<br>
+🔥New! Image to Video with gpt4o and SORA
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/sora/Image%20to%20Video%20with%20gpt4o%20and%20SORA.ipynb">Go to notebook</a>
 <br>
-🔥New! Video to Video with gpt4o and SORA<br>
+🔥New! Video to Video with gpt4o and SORA
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/sora/Video%20to%20Video%20with%20gpt4o%20and%20SORA.ipynb">Go to notebook</a>
 <br>
-🔥New! Introducing agentic retrieval in Azure AI Search.ipynb<br>
+🔥New! Introducing agentic retrieval in Azure AI Search
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Agentic%20RAG/Introducing%20agentic%20retrieval%20in%20Azure%20AI%20Search.ipynb">Go to notebook</a>
 <br>
-🔥New! Model router<br>
+🔥New! Model router
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Model%20router/Model%20router.ipynb">Go to notebook</a>
 <br>
 
@@ -610,6 +610,6 @@ https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-serv
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 21-May-2025<br>
+Updated: 02-June-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
