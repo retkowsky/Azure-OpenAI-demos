@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from typing import Any, Callable, Set, Dict, List, Optional
 
 load_dotenv("azure.env")
-azure_maps_key = os.getenv("azure_maps_key")
+azure_maps_key = os.getenv("AZURE_MAPS_KEY")
 
 
 def azuremaps_weather(query):
