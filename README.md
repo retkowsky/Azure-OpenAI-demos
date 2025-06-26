@@ -6,6 +6,46 @@
 <br>
 https://ai.azure.com/
 
+
+## New content (26-June-2025)
+🔥New! Azure AI Agent service Bing integration (update)
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/6%20Azure%20AI%20Agent%20service%20-%20Bing%20integration.ipynb">Go to notebook</a>
+<br>
+🔥New! Azure AI Agent service Custom Bing integration
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/7%20Azure%20AI%20Agent%20service%20-%20Custom%20Bing%20agent.ipynb">Go to notebook</a>
+<br>
+🔥New! Azure AI Agent service Connected agents
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/8%20Azure%20AI%20Agent%20service%20-%20Connected%20agents.ipynb">Go to notebook</a>
+<br>
+🔥New! Grok with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Grok/Grok%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
+<br>
+🔥New! Phi-4 reasoning with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/phi-4%20reasoning/Phi-4%20reasoning%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
+<br>
+🔥New! GenAI model tracing with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/tracing/Azure%20AI%20Foundry%20tracing.ipynb">Go to notebook</a>
+<br>
+🔥New! Agents evaluator with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Observability/Agents%20evaluators.ipynb">Go to notebook</a>
+<br>
+🔥New! Azure OpenAI evaluators with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Observability/Azure%20OpenAI%20evaluators.ipynb">Go to notebook</a>
+<br>
+🔥New! Evaluators with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Observability/Evaluators.ipynb">Go to notebook</a>
+<br>
+🔥New! Custom evaluators with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Observability/Custom%20evaluators.ipynb">Go to notebook</a>
+<br>
+🔥New! Retrieval evaluators with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Observability/Retrieval%20evaluators.ipynb">Go to notebook</a>
+<br>
+🔥New! Risk safety evaluators with Azure AI Foundry
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Observability/Risk%20and%20safety%20evaluators%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
+<br>
+
+
 ## New content (02-June-2025)
 🔥New! SORA with Azure AI Foundry
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/sora/SORA%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
