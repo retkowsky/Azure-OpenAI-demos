@@ -1,4 +1,4 @@
-## Azure AI Foundry — the AI app and agent factory
+## Azure AI Foundry - the AI app and agent factory
 <img src="foundry_repo.jpg">
 <br>
 <img src="new foundry.png" width=600>
