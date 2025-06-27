@@ -444,95 +444,95 @@ YouTube video processing to generate insights using Azure OpenAI<br>
 
 ## Azure OpenAI demos
 
-Azure OpenAI basics:<br></b>
+<b>Azure OpenAI basics:<br></b>
 Some basic Azure OpenAI demos to understand and discover Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Basics">Go to demo folder</a>
 
-Azure OpenAI quick demos:<br></b>
+<b>Azure OpenAI quick demos:<br></b>
 Some demos for a quick Azure OpenAI workshop<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Open%20AI%20quick%20demos">Go to demo folder</a>
 
-Vectors embeddings for text, images and audio files:<br></b>
+<b>Vectors embeddings for text, images and audio files:<br></b>
 Presentation of vectors embeddings for text, images and audio files. A quick demo to understand the embedding process.<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings">Go to demo folder</a>
 
-Embeddings with Pandas:<br></b>
+<b>Embeddings with Pandas:<br></b>
 Demo about embeddings using some pandas dataframe<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Embeddings with Pandas">Go to demo folder</a>
 
-Azure Computer Vision and Langchain:<br></b>
+<b>Azure Computer Vision and Langchain:<br></b>
 Use of Azure Computer Vision and Langchain<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure Computer Vision and Langchain">Go to demo folder</a>
 
-Azure Cognitive Search Vector Search JSON document analysis with Azure OpenAI:<br></b>
+<b>Azure Cognitive Search Vector Search JSON document analysis with Azure OpenAI:<br></b>
 A demo about JSON document analysis with Azure OpenAI and Azure Cognitive Search and its vector store<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Azure%20Cognitive%20Search%20Vector%20Search%20Code%20Sample%20with%20Azure%20OpenAI">Go to demo folder</a>
 
-Python code analysis with Langchain, Azure OpenAI and Azure Cognitive Search:<br></b>
+<b>Python code analysis with Langchain, Azure OpenAI and Azure Cognitive Search:<br></b>
 A demo about Python notebooks analysis with Azure OpenAI and Azure Cognitive Search and its vector store<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20analysis%20with%20Langchain%20%2B%20Azure%20OpenAI%20%2B%20Azure%20Cognitive%20Search%20(vector%20store)">Go to demo folder</a>
 
-PDF documents analysis with Langchain, Azure OpenAI and Azure Cognitive Search:<br></b>
+<b>PDF documents analysis with Langchain, Azure OpenAI and Azure Cognitive Search:<br></b>
 A demo about analysing PDF documents with Langchain, Azure OpenAI and Azure Cognitive Search and its vector store<br>
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Go to demo folder</a>
 
-Llama:<br></b>
+<b>Llama:<br></b>
 Simple introduciton to LLAMA<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Go to demo folder</a>
 
-Dall-e 2 images generation:<br></b>
+<b>Dall-e 2 images generation:<br></b>
 How to generae artificial images with Azure OpenAI and Dall e 2<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Artificial%20images%20with%20Dall-e%202">Go to demo folder</a>
 
-Python function integration:<br></b>
+<b>Python function integration:<br></b>
 How to integrate python functions with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Python%20functions%20integration">Go to demo folder</a>
 
-Video Indexer transcripts analysis with Azure OpenAI and Azure Cognitive Search:<br></b>
+<b>Video Indexer transcripts analysis with Azure OpenAI and Azure Cognitive Search:<br></b>
 How to analyse Azure Video Indexer transcripts with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Video%20Indexer%20analysis">Go to demo folder</a>
 
-Email response generation:<br></b>
+<b>Email response generation:<br></b>
 How to generate automatic email response with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Email%20response%20generation">Got to demo folder</a>
 
-Wikification:<br></b>
+<b>Wikification:<br></b>
 How to do wikification with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Wikification">Got to demo folder</a>
 
-Resume analysis:<br></b>
+<b>Resume analysis:<br></b>
 How to do resume analysis with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Resume%20analysis">Got to demo folder</a>
 
-Text Analytics with Azure OpenAI:<br></b>
+<b>Text Analytics with Azure OpenAI:<br></b>
 How to do sentiment analysis or text analytics with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Text%20analytics%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
-How to call a deployed Prompt Flow model?<br></b>
+<b>How to call a deployed Prompt Flow model?<br></b>
 Python code to call a prompt flow deployed model.<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PromptFlow%20model%20deployment">Go to demo folder</a>
 
-<From text to emojis:<br></b>
+<b>From text to emojis:<br></b>
 How to categorize a text with some emojis with Azure OpenAI<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/From%20text%20to%20emoji">Go to demo folder</a>
 
-Code optimization and conversion:<br></b>
+<b>Code optimization and conversion:<br></b>
 How to optimize and convert some code with Azure OpenAI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Code%20Optimization%20and%20conversion">Go to demo folder</a>
 
-PowerPoint generation:<br></b>
+<b>PowerPoint generation:<br></b>
 How to generate PowerPoint presentation with Azure OpenAI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/PowerPoint%20generation%20with%20Azure%20Open%20AI">Go to demo folder</a>
 
-FHIR analysis:<br></b>
+<b>FHIR analysis:<br></b>
 How to analyse FHIR data (Fast Healthcare Interoperability Resources) with Azure OpenAI</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/FHIR%20analysis">Go to demo folder</a>
 
-Utilities:<br></b>
+<b>Utilities:<br></b>
 Some Azure OpenAI utilities</br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Utilities">Go to demo folder</a>
 
-Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
+<b>Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
 How to analyse an audio recording meeting notes with Azure OpenAI and Azure Speech services for Speech to Text and Text to Speech<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services">Go to demo folder</a
 
