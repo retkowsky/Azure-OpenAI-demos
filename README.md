@@ -2,6 +2,7 @@
 <img src="foundry_repo.jpg">
 <br>
 <img src="new foundry.png" width=600>
+<br>
 https://ai.azure.com/
 <br>
 <img src="foundry_gui.jpg">
