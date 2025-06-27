@@ -1,11 +1,11 @@
 ## Azure AI Foundry GenAI demos
 <img src="foundry_repo.jpg">
 <br>
-
+<img src="new foundry.png" width=600>
+https://ai.azure.com/
+<br>
 <img src="foundry_gui.jpg">
 <br>
-https://ai.azure.com/
-
 
 ## New content (26-June-2025)
 🔥New! Azure AI Agent service Bing integration (update)
