@@ -533,120 +533,15 @@ Some Azure OpenAI utilities</br>
 
 <b>- Analyse audio meeting notes with Azure OpenAI and Azure Speech Services:<br></b>
 How to analyse an audio recording meeting notes with Azure OpenAI and Azure Speech services for Speech to Text and Text to Speech<br>
-<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services">Go to demo folder</a>
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Analyse%20audio%20meeting%20notes%20with%20Azure%20Open%20AI%20and%20Azure%20Speech%20Services">Go to demo folder</a
 
 
-## Usecases
-- Movies recommendation system using Azure OpenAI and Azure Cognitive Search:<br>
+## Documentation
 
-<img src="https://github.com/retkowsky/images/blob/master/movies_search.png?raw=true">
-<br>
-<a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Movies%20recommender%20usecase%20demo">Go to demo folder</a>
-<br>
-<br>
+https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry
 
-Some screenshots from the movies recommendation app using Azure OpenAI:
-<img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp1.png?raw=true">
 
-<br>
 
-Some screenshots from the movies recommendation app using Azure OpenAI and Azure Cognitive Search:
-<img src="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Movies%20recommender%20usecase%20demo/webapp2.png?raw=true">
-<br><br>
-
-## Azure OpenAI links
-Azure OpenAI:<br>
-https://azure.microsoft.com/en-us/products/ai-services/openai-service-b
-
-Documentation:<br>
-https://learn.microsoft.com/en-us/azure/ai-services/openai/
-
-Azure OpenAI Studio:<br>
-https://oai.azure.com/portal
-
-What's new in Azure OpenAI?<br>
-https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new
-
-## Azure OpenAI accelerators
-
-Azure OpenAI Workshops<br>
-https://github.com/Azure/azure-openai-workshop
-https://github.com/microsoft/OpenAIWorkshop
-https://github.com/csiebler/openai-in-a-day
-
-Azure Search OpenAI solution accelerator<br>
-https://github.com/Azure-Samples/azure-search-openai-solution-accelerator
-
-Azure Cognitive Search Azure OpenAI Accelerator<br>
-https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator
-
-Azure Cognitive Search async Azure OpenAI<br>
-https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai<br>
-https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator/tree/main
-
-## Responsible AI
-
-Overview of Responsible AI practices for Azure OpenAI models<br>
-https://learn.microsoft.com/en-us/legal/cognitive-services/openai/overview
-
-Data, privacy, security<br>
-https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy
-
-Content filtering<br>
-https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-filter
-
-## Some additional Azure OpenAI ressources
-Learn Azure OpenAI<br>
-https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/
-
-Azure OpenAI Service models<br>
-https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/concepts/models
-
-Azure OpenAI Service Frequently Asked Questions<br>
-https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/faq
-
-Transparency Note for Azure OpenAI Service<br>
-https://learn.microsoft.com/en-us/legal/cognitive-services/openai/transparency-note?context=%2Fazure%2Fcognitive-services%2Fopenai%2Fcontext%2Fcontext&tabs=text
-
-OpenAI Cookbook<br>
-https://github.com/openai/openai-cookbook
-
-ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search<br>
-https://github.com/Azure-Samples/azure-search-openai-demo/
-
-Azure OpenAI samples<br>
-https://github.com/Azure/openai-samples
-
-Azure OpenAI Embeddings QnA<br>
-https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
-
-Learn how to customize a model for your application<br>
-https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/how-to/fine-tuning?pivots=programming-language-python
-
-Llm based virtual assistant demo<br>
-https://github.com/csiebler/llm-based-virtual-assistant-demo
-
-Customer Service Conversational Insights with Azure OpenAI<br>
-https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services
-
-Azure OpenAI Embeddings QnA<br>
-https://github.com/fvneerden/azure-open-ai-embeddings-qna
-
-Azure OpenAI Embeddings QnA from Azure Video Indexer transcripts<br>
-https://github.com/fvneerden/azure-open-ai-embeddings-qna/tree/videosolacc
-
-## Azure OpenAI Landing Zone reference architecture
-https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-openai-landing-zone-reference-architecture/ba-p/3882102
-
-## Azure OpenAI demos videos
-Microsoft AI Show demos videos:<br>
-https://learn.microsoft.com/en-us/shows/ai-show/?expanded=azure&products=azure-openai
-
-YouTube demos videos:<br>
-https://www.youtube.com/results?search_query=azure+open+ai
-
-## Azure OpenAI pricing
-https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/
 
 ## Author
 Date of creation: 05-Sept-2023<br>
