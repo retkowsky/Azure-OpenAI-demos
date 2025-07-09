@@ -378,7 +378,7 @@ The Azure OpenAI Batch API is designed to handle large-scale and high-volume pro
 🔥 New! Grammar analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Grammar%20checking/Grammar.ipynb">Go to demo</a>
 <br>
-🔥 New! Heath report analysis:
+🔥 New! Health report analysis:
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Health%20report%20analysis/Health%20report%20analysis.ipynb">Go to demo</a>
 <br>
 🔥 New! Web article analysis:
