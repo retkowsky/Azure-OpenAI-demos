@@ -477,11 +477,11 @@ A demo about analysing PDF documents with Langchain, Azure OpenAI and Azure Cogn
 <a href = "https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Lanchain%20with%20Azure%20Open%20AI%20(PDF%20files)%20and%20Azure%20Cognitive%20Search">Go to demo folder</a>
 
 <b>Llama:<br></b>
-Simple introduciton to LLAMA<br>
+Simple introduction to LLAMA<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Llama">Go to demo folder</a>
 
 <b>Dall-e 2 images generation:<br></b>
-How to generae artificial images with Azure OpenAI and Dall e 2<br>
+How to generate artificial images with Azure OpenAI and Dall e 2<br>
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/tree/main/Artificial%20images%20with%20Dall-e%202">Go to demo folder</a>
 
 <b>Python function integration:<br></b>
