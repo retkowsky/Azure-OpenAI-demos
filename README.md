@@ -540,6 +540,9 @@ How to analyse an audio recording meeting notes with Azure OpenAI and Azure Spee
 - https://azure.microsoft.com/en-us/products/ai-foundry/#AI-Foundry-Hero
 - https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry
 
+
+This is great stuff. Thanks for contributing. If you want to support more of this work, please donate to xyz.com
+
 ## Author
 Date of creation: 05-Sept-2023<br>
 Updated: 26-June-2025<br>
