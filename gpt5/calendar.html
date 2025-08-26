@@ -1,0 +1,493 @@
+Here’s a single-file, clean, and responsive vacation planner. It includes an intuitive date-range input for each team member, a manager view aggregating all submissions, scrolling when content exceeds the viewport, and minimal styling. Note: You mentioned a team of 4 but listed 3 names. I included “Eve” as the 4th member—you can change this name in the code if needed.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Team Vacation Planner</title>
+  <style>
+    :root {
+      --bg: #f8f9fb;
+      --card: #ffffff;
+      --text: #222;
+      --muted: #6b7280;
+      --primary: #2563eb;
+      --primary-weak: #dbeafe;
+      --border: #e5e7eb;
+      --danger: #dc2626;
+      --good: #16a34a;
+      --shadow: 0 1px 3px rgba(0,0,0,0.08);
+      --radius: 10px;
+    }
+    html, body {
+      height: 100%;
+    }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.4;
+      overflow-y: auto; /* ensures scrollbar if needed */
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    header h1 {
+      font-size: 18px;
+      margin: 0;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 16px;
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 16px;
+    }
+    @media (max-width: 900px) {
+      .container {
+        grid-template-columns: 1fr;
+      }
+    }
+    /* Member forms */
+    .forms {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+    @media (max-width: 680px) {
+      .forms {
+        grid-template-columns: 1fr;
+      }
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .member-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .member-title h2 {
+      font-size: 16px;
+      margin: 0;
+    }
+    .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      align-items: end;
+    }
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    label {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    input[type="date"] {
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 14px;
+      background: white;
+      color: var(--text);
+    }
+    .actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    button {
+      appearance: none;
+      border: 1px solid var(--primary);
+      background: var(--primary);
+      color: white;
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    button.secondary {
+      background: transparent;
+      color: var(--primary);
+    }
+    button:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+    .hint {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--primary-weak);
+      color: #0b3aa3;
+      padding: 6px 8px;
+      border-radius: 999px;
+      font-size: 13px;
+      border: 1px solid #bfdbfe;
+    }
+    .remove {
+      border: 1px solid var(--border);
+      background: white;
+      color: var(--danger);
+      padding: 4px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+    /* Manager view */
+    .manager {
+      position: sticky;
+      top: 64px;
+      align-self: start;
+      height: fit-content;
+    }
+    .manager .card h3 {
+      margin: 0 0 8px 0;
+      font-size: 15px;
+    }
+    .manager .group {
+      border-top: 1px solid var(--border);
+      padding-top: 8px;
+      margin-top: 8px;
+    }
+    .empty {
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .success {
+      color: var(--good);
+      font-size: 12px;
+    }
+    footer {
+      padding: 20px;
+      color: var(--muted);
+      text-align: center;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Team Vacation Planner</h1>
+    <div class="hint">Select start and end dates, then click “Add”</div>
+  </header>
+
+  <main class="container">
+    <!-- Member forms -->
+    <section class="forms" id="forms">
+      <!-- You can rename "Eve" below to your 4th member's name -->
+      <div class="card member" data-member="Alice">
+        <div class="member-title">
+          <h2>Alice</h2>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="start-Alice">Start date</label>
+            <input type="date" id="start-Alice" />
+          </div>
+          <div class="field">
+            <label for="end-Alice">End date</label>
+            <input type="date" id="end-Alice" />
+          </div>
+        </div>
+        <div class="actions">
+          <button class="add-btn" data-member="Alice">Add vacation</button>
+          <span class="hint">Single day? Use same start and end.</span>
+        </div>
+        <div class="list" id="list-Alice"></div>
+      </div>
+
+      <div class="card member" data-member="Bob">
+        <div class="member-title">
+          <h2>Bob</h2>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="start-Bob">Start date</label>
+            <input type="date" id="start-Bob" />
+          </div>
+          <div class="field">
+            <label for="end-Bob">End date</label>
+            <input type="date" id="end-Bob" />
+          </div>
+        </div>
+        <div class="actions">
+          <button class="add-btn" data-member="Bob">Add vacation</button>
+          <span class="hint">Single day? Use same start and end.</span>
+        </div>
+        <div class="list" id="list-Bob"></div>
+      </div>
+
+      <div class="card member" data-member="John">
+        <div class="member-title">
+          <h2>John</h2>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="start-John">Start date</label>
+            <input type="date" id="start-John" />
+          </div>
+          <div class="field">
+            <label for="end-John">End date</label>
+            <input type="date" id="end-John" />
+          </div>
+        </div>
+        <div class="actions">
+          <button class="add-btn" data-member="John">Add vacation</button>
+          <span class="hint">Single day? Use same start and end.</span>
+        </div>
+        <div class="list" id="list-John"></div>
+      </div>
+
+      <div class="card member" data-member="Eve">
+        <div class="member-title">
+          <h2>Eve</h2>
+        </div>
+        <div class="row">
+          <div class="field">
+            <label for="start-Eve">Start date</label>
+            <input type="date" id="start-Eve" />
+          </div>
+          <div class="field">
+            <label for="end-Eve">End date</label>
+            <input type="date" id="end-Eve" />
+          </div>
+        </div>
+        <div class="actions">
+          <button class="add-btn" data-member="Eve">Add vacation</button>
+          <span class="hint">Single day? Use same start and end.</span>
+        </div>
+        <div class="list" id="list-Eve"></div>
+      </div>
+    </section>
+
+    <!-- Manager view -->
+    <aside class="manager">
+      <div class="card">
+        <h3>Manager View: All Submitted Vacation Dates</h3>
+        <div id="managerList" class="list"></div>
+        <div id="noneNote" class="empty">No vacation dates submitted yet.</div>
+        <div class="actions" style="margin-top: 8px;">
+          <button id="clearAll" class="secondary">Clear all</button>
+          <span id="status" class="success" aria-live="polite"></span>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <footer>
+    Minimal, responsive single page. Data stored locally in your browser.
+  </footer>
+
+  <script>
+    // Utilities
+    const fmt = (dStr) => {
+      const d = new Date(dStr + 'T00:00:00');
+      if (isNaN(d)) return dStr;
+      return d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+    };
+    const byDate = (a, b) => a.start.localeCompare(b.start) || a.end.localeCompare(b.end);
+
+    // Initial members (rename "Eve" if needed)
+    const members = ['Alice', 'Bob', 'John', 'Eve'];
+
+    // State
+    const STORAGE_KEY = 'vacations-v1';
+    let vacations = load() || {
+      Alice: [],
+      Bob: [],
+      John: [],
+      Eve: [],
+    };
+
+    function save() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(vacations));
+      setStatus('Saved');
+    }
+    function load() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        return raw ? JSON.parse(raw) : null;
+      } catch {
+        return null;
+      }
+    }
+    function setStatus(msg) {
+      const el = document.getElementById('status');
+      if (!el) return;
+      el.textContent = msg;
+      setTimeout(() => (el.textContent = ''), 1200);
+    }
+
+    // Rendering member lists
+    function renderMember(name) {
+      const listEl = document.getElementById('list-' + name);
+      listEl.innerHTML = '';
+      const items = [...(vacations[name] || [])].sort(byDate);
+      items.forEach((r, idx) => {
+        const badge = document.createElement('div');
+        badge.className = 'badge';
+        const text = document.createElement('span');
+        text.textContent = r.start === r.end ? fmt(r.start) : `${fmt(r.start)} → ${fmt(r.end)}`;
+        const btn = document.createElement('button');
+        btn.className = 'remove';
+        btn.textContent = 'Remove';
+        btn.addEventListener('click', () => {
+          vacations[name].splice(idx, 1);
+          save();
+          renderMember(name);
+          renderManager();
+        });
+        badge.appendChild(text);
+        badge.appendChild(btn);
+        listEl.appendChild(badge);
+      });
+    }
+
+    // Rendering manager view
+    function renderManager() {
+      const container = document.getElementById('managerList');
+      const noneNote = document.getElementById('noneNote');
+      container.innerHTML = '';
+
+      // Flatten all entries with member names
+      const all = members.flatMap((m) =>
+        (vacations[m] || []).map((r) => ({ member: m, ...r }))
+      ).sort((a, b) => a.start.localeCompare(b.start) || a.member.localeCompare(b.member));
+
+      if (!all.length) {
+        noneNote.style.display = 'block';
+        return;
+      }
+      noneNote.style.display = 'none';
+
+      // Group by member
+      const byMember = {};
+      for (const row of all) {
+        byMember[row.member] = byMember[row.member] || [];
+        byMember[row.member].push(row);
+      }
+
+      members.forEach((m) => {
+        const group = byMember[m] || [];
+        const wrap = document.createElement('div');
+        wrap.className = 'group';
+        const heading = document.createElement('div');
+        heading.style.fontWeight = '600';
+        heading.textContent = m;
+        wrap.appendChild(heading);
+
+        if (!group.length) {
+          const empty = document.createElement('div');
+          empty.className = 'empty';
+          empty.textContent = 'No dates';
+          wrap.appendChild(empty);
+        } else {
+          group.forEach((r) => {
+            const row = document.createElement('div');
+            row.className = 'badge';
+            row.style.background = 'white';
+            row.style.border = '1px solid var(--border)';
+            row.style.color = 'inherit';
+            row.textContent = r.start === r.end ? fmt(r.start) : `${fmt(r.start)} → ${fmt(r.end)}`;
+            wrap.appendChild(row);
+          });
+        }
+        container.appendChild(wrap);
+      });
+    }
+
+    // Add handlers
+    function addRange(member, start, end) {
+      const s = start?.value;
+      const e = end?.value;
+
+      if (!s || !e) {
+        alert('Please select both start and end dates.');
+        return;
+      }
+      if (e < s) {
+        alert('End date cannot be before start date.');
+        return;
+      }
+
+      // Prevent exact duplicates
+      const exists = (vacations[member] || []).some((r) => r.start === s && r.end === e);
+      if (exists) {
+        alert('This date range is already added.');
+        return;
+      }
+
+      vacations[member] = vacations[member] || [];
+      vacations[member].push({ start: s, end: e });
+      save();
+      renderMember(member);
+      renderManager();
+      start.value = '';
+      end.value = '';
+    }
+
+    function wireUp() {
+      // Initialize missing keys if any
+      members.forEach((m) => {
+        if (!vacations[m]) vacations[m] = [];
+      });
+
+      // Attach button handlers
+      document.querySelectorAll('.add-btn').forEach((btn) => {
+        const member = btn.dataset.member;
+        const start = document.getElementById('start-' + member);
+        const end = document.getElementById('end-' + member);
+        btn.addEventListener('click', () => addRange(member, start, end));
+      });
+
+      // Clear all
+      document.getElementById('clearAll').addEventListener('click', () => {
+        if (!confirm('Clear all vacation dates for all members?')) return;
+        members.forEach((m) => (vacations[m] = []));
+        save();
+        members.forEach(renderMember);
+        renderManager();
+      });
+
+      // Initial render
+      members.forEach(renderMember);
+      renderManager();
+    }
+
+    document.addEventListener('DOMContentLoaded', wireUp);
+  </script>
+</body>
+</html>
