@@ -8,6 +8,12 @@ https://ai.azure.com/
 <img src="foundry_gui.jpg">
 <br>
 
+## New content (26-August-2025)
+🔥New! GPT-5 demos examples
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt5/Azure%20AI%20Foundry%20-%20gpt5.ipynb">Go to notebook</a>
+<br>
+
+
 ## New content (26-June-2025)
 🔥New! Azure AI Agent service Bing integration (update)
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Azure%20Agent%20Service/6%20Azure%20AI%20Agent%20service%20-%20Bing%20integration.ipynb">Go to notebook</a>
@@ -542,6 +548,6 @@ How to analyse an audio recording meeting notes with Azure OpenAI and Azure Spee
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 26-June-2025<br>
+Updated: 26-August-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
