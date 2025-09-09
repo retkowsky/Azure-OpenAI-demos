@@ -8,11 +8,18 @@ https://ai.azure.com/
 <img src="foundry_gui.jpg">
 <br>
 
+## New content (09-September-2025)
+🔥New! Flux.1 Kontext Pro - Text & image to image demos
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Flux.1%20Kontext%20Pro/Image%20Edition%20with%20Flux.1%20Kontext%20Pro%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
+<br>
+🔥New! Flux1.1 pro -  text to image demos
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/blackforestslabs/flux1.1pro/Text%20to%20image%20with%20FLUX-1.1-pro%20in%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
+<br>
+
 ## New content (26-August-2025)
 🔥New! GPT-5 demos examples
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/gpt5/Azure%20AI%20Foundry%20-%20gpt5.ipynb">Go to notebook</a>
 <br>
-
 
 ## New content (26-June-2025)
 🔥New! Azure AI Agent service Bing integration (update)
@@ -548,6 +555,6 @@ How to analyse an audio recording meeting notes with Azure OpenAI and Azure Spee
 
 ## Author
 Date of creation: 05-Sept-2023<br>
-Updated: 26-August-2025<br>
+Updated: 09-September-2025<br>
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
