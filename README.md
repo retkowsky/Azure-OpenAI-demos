@@ -9,6 +9,10 @@ https://ai.azure.com/
 <br>
 
 ## New content (09-September-2025)
+🔥New! Mistral Document AI
+<a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Mistral%20Document%20AI/Mistral%20Document%20AI%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
+<br>
+
 🔥New! Flux.1 Kontext Pro - Text & image to image demos
 <a href="https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Flux.1%20Kontext%20Pro/Image%20Edition%20with%20Flux.1%20Kontext%20Pro%20with%20Azure%20AI%20Foundry.ipynb">Go to notebook</a>
 <br>
